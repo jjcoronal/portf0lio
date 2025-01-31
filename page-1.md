@@ -18,6 +18,4 @@ Description
 ![image](assets/img/Case 01 - Clean Inner City - 7. Visualization.jpg)
 
 
-_yay_
-
 [back](./)
