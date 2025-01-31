@@ -14,6 +14,5 @@ Through construction instructions, the aim is to make the construction process a
 ![image](assets/img/casa-estudio/240925_PF_MADE.jpg)
 
 ![image](assets/img/casa-estudio/240925_PF_MADE7.jpg)
-![image](assets/img/casa-estudio/240925_PF_MADE_115.png)
 
 [back](./)
