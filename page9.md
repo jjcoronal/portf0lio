@@ -9,7 +9,6 @@ layout: default
 Description
 
 ![image](assets/img/tensegrity/Arbol filogenetico_formato_Mesa de trabajo 1.jpg)
-
 ![image](assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png)
 ![image](assets/img/tensegrity/240925_PF_MADE32.jpg)
 ![image](assets/img/tensegrity/240925_PF_MADE33.jpg)
