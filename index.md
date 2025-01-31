@@ -2,8 +2,8 @@
 layout: default
 ---
 
-###### If you want to see my other work go [here](https://www.instagram.com/jjclucio)
----
+##### If you want to see my other work go [here](https://www.instagram.com/jjclucio)
+
 
 # **Multidisciplinary Collaborations**
 ---
