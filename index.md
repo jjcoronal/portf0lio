@@ -46,11 +46,13 @@ Description
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
-Description
+Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design.
 
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
 The research unfolded through a non-linear iterative process, seamlessly integrating digital experimentation with the creation of physical prototypes. This dynamic approach fostered a deeper understanding of the design's behavior and material properties, allowing for constant feedback and refinement.
 
 ### [Codified Reinterpretation](page10.md)
+
+From a reinterpretation of the creative process and the work of the North American artist Chuck Close, the geometric bases on which his discourse is built were abstracted and translated into the Python programming language. 
 
