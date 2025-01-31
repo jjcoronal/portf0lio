@@ -19,11 +19,13 @@ Brief description
 ---
 ### [The Ex[cease]tance](page2.md)
 
-Brief description
+The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
+It envisions new discourses of designing alternative spatial strategies for death and remembrance beyond colonial narratives.
 
 ### [Raindrops of Change](page3.md)
 
-Brief description
+Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
+Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
