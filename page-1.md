@@ -7,7 +7,7 @@ _MSc. MADE | AMS Institute_
 
 Description
 
-<iframe width="380" height="180" src="https://www.youtube.com/embed/vYtQDY0s4oE?si=hQ5tJshMkGOtOmPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="470" height="300" src="https://www.youtube.com/embed/vYtQDY0s4oE?si=hQ5tJshMkGOtOmPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Description
 
