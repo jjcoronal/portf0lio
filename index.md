@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-# About
 ---
+# About
+
 > I take a multidisciplinary approach that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.
 
 
@@ -10,10 +11,10 @@ layout: default
 
 ##### If you want to see other work of mine, click [here](https://www.instagram.com/jjclucio)
 
-
+---
 
 # **Multidisciplinary Collaborations**
----
+
 
 ### [Clean Inner City Living Lab](page-1.md)
 
@@ -21,10 +22,10 @@ The research highlights the gaps between the design of the waste management syst
 
 ### [UnmuteCommute](page6.md)
 
-
+---
 
 # **Urban Research Projects** 
----
+
 ### [The Ex[cease]tance](page2.md)
 
 The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
@@ -47,9 +48,9 @@ Description
 
 Description
 
+---
 
 # **Research & Design Projects** 
----
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
