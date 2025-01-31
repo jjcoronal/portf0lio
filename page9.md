@@ -6,10 +6,13 @@ layout: default
 #### Digital Prototyping & Experimental Research
 ###### _Graduation Project_
 
-Description
+This investigation demonstrated the power of a non-linear research approach that embraces the interplay between digital and physical realms.
 
 ![image](assets/img/tensegrity/Arbol filogenetico_formato_Mesa de trabajo 1.jpg)
 ![image](assets/img/tensegrity/Concepto.png)
+
+The inherent instability and interconnectedness of tensegrity structures provide a unique framework for children to engage in dynamic play experiences, challenging their spatial awareness and problem-solving abilities.
+
 ![image](assets/img/tensegrity/240925_PF_MADE32.jpg)
 ![image](assets/img/tensegrity/240925_PF_MADE33.jpg)
 
