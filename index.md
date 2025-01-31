@@ -45,6 +45,6 @@ Description
 
 Description
 
-### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.d)
+### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
 Description
