@@ -14,6 +14,9 @@ Description
 ![image](assets/img/tensegrity/240925_PF_MADE32.jpg)
 ![image](assets/img/tensegrity/240925_PF_MADE33.jpg)
 
+
+#### Prototyping
+
 ![image](assets/img/tensegrity/019a8927586078e114d0eb3e83d72e3a04a38ed82a.jpg)
 ![image](assets/img/tensegrity/01facdef2d1a0aa19376b40af34e0f7d38bbb7f636.jpg)
 
