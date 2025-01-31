@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-##### [LinkdIn](https://www.linkedin.com/in/juan-jose-corona/)
+##### [Linkdin](https://www.linkedin.com/in/juan-jose-corona/)
 ##### If you want to see my other work go [here](https://www.instagram.com/jjclucio)
 
 
