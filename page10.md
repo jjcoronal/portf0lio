@@ -7,8 +7,9 @@ layout: default
 
 Description
 
-![image](assets/img/Fig1_JJCL.png)
-![image](assets/img/Fig3_JJCL-min.png)
-
+![image](assets/img/close/DiagramasClose-07.jpg)
+![image](assets/img/close/DiagramasClose_Mesa de trabajo 1.jpg)
+![image](assets/img/close/240925_PF_MADE37.jpg)
+![image](assets/img/close/101611096_121ec92b8b_b.jpg)
 
 [back](./)
