@@ -9,7 +9,7 @@ layout: default
 
 Brief description
 
-## UnmuteCommute
+## [UnmuteCommute](page6.md)
 
 
 
@@ -31,19 +31,19 @@ Description
 
 Description
 
-## [MEXICO CITY: Twelve archeologies of housing at a crossroads](page6.md)
+## [MEXICO CITY: Twelve archeologies of housing at a crossroads](page7.md)
 
 Description
 
 
 
-# **Prototyping & Design** 
+# **Design & Spatial Interventions** 
 ---
 
-## [Wood Prototyping, Fabrication, & Community Engagement](page7.md)
+## [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
 Description
 
-## [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page8.d)
+## [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.d)
 
 Description
