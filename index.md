@@ -10,9 +10,10 @@ layout: default
 
 ### [Clean Inner City Living Lab](page-1.md)
 
-Brief description
+The research highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area. Using a socio-technical systems framework, the misalignments between social behaviors, technical infrastructure, and waste management processes are identified.
 
 ### [UnmuteCommute](page6.md)
+
 
 
 # **Urban Research Projects** 
@@ -49,7 +50,7 @@ Description
 
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
-Description
+The research unfolded through a non-linear iterative process, seamlessly integrating digital experimentation with the creation of physical prototypes. This dynamic approach fostered a deeper understanding of the design's behavior and material properties, allowing for constant feedback and refinement.
 
 ### [Codified Reinterpretation](page10.md)
 
