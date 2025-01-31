@@ -1,6 +1,6 @@
 title: Portf0lio
-#logo: /assets/img/logo.png
+logo: assets/img/icon/icon.svg
 description: Showcasing grounds for my work. If you want to see my other work go [here](https://www.instagram.com/jjclucio)
 show_downloads: true
-google_analytics:
+# google_analytics:
 theme: jekyll-theme-minimal
