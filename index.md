@@ -15,7 +15,7 @@ Brief description
 ### [UnmuteCommute](page6.md)
 
 
-# **Research** 
+# **Urban Research Projects** 
 ---
 ### [The Ex[cease]tance](page2.md)
 
@@ -38,7 +38,7 @@ Description
 Description
 
 
-# **Design & Spatial Interventions** 
+# **Research & Design Projects ** 
 ---
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
@@ -48,3 +48,6 @@ Description
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
 Description
+
+### [Codified Reinterpretation](page10.md)
+
