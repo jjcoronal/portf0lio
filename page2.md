@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Research & Design
-
 ## The Ex[cease]tance
 ### Reevaluating Death-Related Institutions in the Dutch Context: A Reflection on Modern Western Societies and the Potential for Healthier and Sustainable Practices.
 ###### _YMS30306_
