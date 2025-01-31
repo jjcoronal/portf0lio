@@ -2,16 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Multidisciplinary Collaborations
+---
 
-# Projects
+## [Clean Inner City Living Lab](page-1.md).
 
 Brief description
 
-## [Multidisciplinary Collaboration](page-1.md).
+## UnmuteCommute
 
-### Research teammember, AMS Institute
+# Research & Design
+---
+## [The Ex[cease]tance](page2.md).
 
-## [Design & Research](page2.md).
-
-### Freelancer
+Brief description
