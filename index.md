@@ -2,9 +2,9 @@
 layout: default
 ---
 ---
-# About
+#### About
 
-> **I take a multidisciplinary approach that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.**
+> I take a multidisciplinary approach that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.
 
 
 ##### [Linkedin](https://www.linkedin.com/in/juan-jose-corona/)
@@ -13,7 +13,7 @@ layout: default
 
 ---
 
-# **Multidisciplinary Collaborations**
+# Multidisciplinary Collaborations
 
 
 ### [Clean Inner City Living Lab](page-1.md)
@@ -24,7 +24,7 @@ The research highlights the gaps between the design of the waste management syst
 
 ---
 
-# **Urban Research Projects** 
+# Urban Research Projects
 
 ### [The Ex[cease]tance](page2.md)
 
@@ -50,7 +50,7 @@ Description
 
 ---
 
-# **Research & Design Projects** 
+# Research & Design Projects
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
