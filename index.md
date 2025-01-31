@@ -38,7 +38,7 @@ Description
 Description
 
 
-# **Research & Design Projects ** 
+# **Research & Design Projects** 
 ---
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
