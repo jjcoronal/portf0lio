@@ -72,7 +72,8 @@ Conceiving the use of wood, through forest use and maintenance, as an alternativ
 
 The research unfolded through a non-linear iterative process, seamlessly integrating digital experimentation with the creation of physical prototypes. This dynamic approach fostered a deeper understanding of the design's behavior and material properties, allowing for constant feedback and refinement.
 
-> <img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200"> <img src="
+assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">
 
 ### [Codified Reinterpretation](page10.md)
 
