@@ -40,7 +40,7 @@ It envisions new discourses of designing alternative spatial strategies for deat
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
 Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
-<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="300" height="200">
+<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="270" height="200">
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
@@ -54,7 +54,9 @@ By providing an accessible first step toward independent living, the researched 
 
 ### [MEXICO CITY: Twelve archeologies of housing at a crossroads](page7.md)
 
-Description
+The research focuses on analyzing and understanding collective housing models and how shared spaces within these models can serve as tools for social change. It questions the traditional model of private property and the nuclear family, arguing that these structures perpetuate inequalities and limit the possibilities for socialization and the collectivization of domestic and reproductive labor.
+
+<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">
 
 ---
 
