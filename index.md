@@ -5,7 +5,7 @@ layout: default
 
 > I take a **multidisciplinary approach** that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to **cultural narratives**, **human experience**, and **systemic inequalities**, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.
 
-<img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
