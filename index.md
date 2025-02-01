@@ -40,7 +40,7 @@ It envisions new discourses of designing alternative spatial strategies for deat
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
 Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
-<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="300" height="400">
+<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="300" height="200">
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
