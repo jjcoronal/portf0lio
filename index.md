@@ -33,14 +33,14 @@ Unmute Commute is an entrepreneurial venture that rethinks public transit as a s
 The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
 It envisions new discourses of designing alternative spatial strategies for death and remembrance beyond colonial narratives.
 
-<img src="assets/img/assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="400" height="200">
+<img src="assets/img/assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="300" height="200">
 
 ### [Raindrops of Change](page3.md)
 
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
 Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
-<img src="assets/img/assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="400" height="200">
+<img src="assets/img/assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="300" height="200">
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
