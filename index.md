@@ -19,7 +19,7 @@ The research highlights the gaps between the design of the waste management syst
 
 ### [UnmuteCommute](page6.md)
 
-Description
+Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product. The initiative combines physical tokens (bracelets, badges, or keychains) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
 
 ---
 
