@@ -66,7 +66,10 @@ The research focuses on analyzing and understanding collective housing models an
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
-Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design.
+Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design
+
+> <img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">
+
 
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
