@@ -5,6 +5,7 @@ layout: default
 
 > I take a **multidisciplinary approach** that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to **cultural narratives**, **human experience**, and **systemic inequalities**, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.
 
+<img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
@@ -33,14 +34,14 @@ Unmute Commute is an entrepreneurial venture that rethinks public transit as a s
 The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
 It envisions new discourses of designing alternative spatial strategies for death and remembrance beyond colonial narratives.
 
-<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="550" height="200">
+<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">
 
 ### [Raindrops of Change](page3.md)
 
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
 Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
-<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="270" height="200">
+<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
