@@ -3,6 +3,8 @@ layout: default
 ---
 
 # UnmuteCommute
+###### _Combined course project_ 
+###### Metropolitan Data 2 & Entrepreneurial Skills
 
 Unmute Commute explores mobility, social interaction, and behavioral change from an entrepreneurial and data-driven perspective. 
 
