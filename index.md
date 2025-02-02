@@ -90,5 +90,8 @@ From a reinterpretation of the creative process and the work of the North Americ
 
 ### [Foro/ENTRE/2020](https://issuu.com/escuadraarquitectura/docs/foro_entre_book)
 
+---
 
-###### _Thanks for stopping by! I'm always open to new ideas, and good conversations_
+
+
+_Thanks for stopping by! I'm always open to new ideas, and good conversations_
