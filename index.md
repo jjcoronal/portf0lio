@@ -4,7 +4,9 @@ layout: default
 
 ## About me
 
-> I take a **multidisciplinary approach** that integrates theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions. My work is driven by a deep sensitivity to **cultural narratives**, **human experience**, and **systemic inequalities**, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism.
+> I like to call myself an urban innovator, designer and researcher because of my multidisciplinary approach to tackling complex challenges in cities. With an MSc in Metropolitan Analysis, Design, and Engineering—a joint program by TU Delft and Wageningen University & Research—I integrate theoretical inquiry, design experimentation, and real-world applications, bridging abstract concepts with practical, impactful solutions.
+
+> My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change.
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
