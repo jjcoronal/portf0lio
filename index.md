@@ -27,7 +27,7 @@ The research highlights the gaps between the design of the waste management syst
 
 Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product. The initiative combines physical tokens (bracelets, badges, or keychains) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
 
-> <img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="320" height="210">  <img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">  <img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">
 
 ---
 
