@@ -90,7 +90,7 @@ From a reinterpretation of the creative process and the work of the North Americ
 
 ### [Foro/ENTRE/2020](https://issuu.com/escuadraarquitectura/docs/foro_entre_book)
 
-### [Ecotequio](page11.md)
+### [ECO-TEQUIO Volunteer Experience](page11.md)
 ---
 
 
