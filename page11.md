@@ -32,7 +32,7 @@ Participated in ECO-TEQUIO, a hands-on sustainability and community service prog
   ![image](assets/img/ecotequio/7815A96A-9620-488C-8AB5-4CB10E9BFC59_1_105_c.jpeg)
   
 * Took part in eco-awareness discussions and sustainability practices, deepening understanding of resource management.
-* 
+  
 * Assisted in organizing and participating in cultural exchange activities, including welcome and farewell bonfires and an eco-hike to a mountain viewpoint.
 
   ![image](assets/img/ecotequio/57D1149C-7950-4108-84C1-90F329175F16_1_105_c.jpeg)
