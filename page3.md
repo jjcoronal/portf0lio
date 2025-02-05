@@ -28,13 +28,13 @@ Escobar sees this as a consequence of Eurocentric ontological design, where West
 **References**
 
 ##### Cajaiba-Santana, G. (2014). Social innovation: Moving the field forward. A conceptual framework. Technological Forecasting and Social Change, 82, 42–51. https://doi.org/10.1016/j.techfore.2013.05.008
-Cambridge Dictionary. (2020, April). HINDSIGHT | meaning in the Cambridge English Dictionary. Cambridge.org. https://dictionary.cambridge.org/dictionary/english/hindsight
-Escobar, Arturo. 2018. Designs for the Pluriverse : Radical Interdependence, Autonomy, and the Making of Worlds. Durham: Duke University Press.
-Geels (2002) Technological transitions as evolutionary reconfiguration processes: a mulA-level perspecAve and a case study. Research Policy 31: 1257-1274.
-Gosh et al. (2021) Decolonising transitions in the Global South: Towardsmore epistemic diversity in transitions research. Environmental Innovation and Societal Transitions 41: 106-109.
-Pandey. Responsible innovation goes south: critique, othering, and a commitment to care. Journal of Responsible Innovation 11(2): 2295594.
-Paz, Octavio, and Enrico Mario Santí. 2015. El Laberinto de La Soledad ; Postdata ; Vuelta a El Laberinto de La Soledad. Mexico: Fondo De Cultura Económica.
-Wakunuma, K., de Castro, F., Jiya, T., Inigo, E. A., Blok, V., & Bryce, V. (2021). Reconceptualising responsible research and innovation from a Global South perspective. Journal of Responsible Innovation, 8(2), 1–25. https://doi.org/10.1080/23299460.2021.1944736
-Wittmayer et al. (2024) Advancing the understanding of social innovation in sustainability transiAons: exploring processes, poliAcs, and policies for accelerating transitions. Environmental Innovation and Societal Transitions 50: 100805
+##### Cambridge Dictionary. (2020, April). HINDSIGHT | meaning in the Cambridge English Dictionary. Cambridge.org. https://dictionary.cambridge.org/dictionary/english/hindsight
+##### Escobar, Arturo. 2018. Designs for the Pluriverse : Radical Interdependence, Autonomy, and the Making of Worlds. Durham: Duke University Press.
+##### Geels (2002) Technological transitions as evolutionary reconfiguration processes: a mulA-level perspecAve and a case study. Research Policy 31: 1257-1274.
+##### Gosh et al. (2021) Decolonising transitions in the Global South: Towardsmore epistemic diversity in transitions research. Environmental Innovation and Societal Transitions 41: 106-109.
+##### Pandey. Responsible innovation goes south: critique, othering, and a commitment to care. Journal of Responsible Innovation 11(2): 2295594.
+##### Paz, Octavio, and Enrico Mario Santí. 2015. El Laberinto de La Soledad ; Postdata ; Vuelta a El Laberinto de La Soledad. Mexico: Fondo De Cultura Económica.
+##### Wakunuma, K., de Castro, F., Jiya, T., Inigo, E. A., Blok, V., & Bryce, V. (2021). Reconceptualising responsible research and innovation from a Global South perspective. Journal of Responsible Innovation, 8(2), 1–25. https://doi.org/10.1080/23299460.2021.1944736
+##### Wittmayer et al. (2024) Advancing the understanding of social innovation in sustainability transiAons: exploring processes, poliAcs, and policies for accelerating transitions. Environmental Innovation and Societal Transitions 50: 100805
 
 [back](./)
