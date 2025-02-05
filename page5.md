@@ -1,5 +1,5 @@
 ## Follow-up Research: CLJT Housing Typology | (2/2)
-###### _Personal project_
+###### _Personal project, 2022_
 
 Over the course of a year, while navigating my professional responsibilities, adapting to a new culture, and building a social network abroad, I had the opportunity to experience firsthand the Centre du Logement des Jeunes Travailleurs, Etudiants et Stagiaires (CLJT)—a social housing model that provides affordable rental units for young professionals, students, and apprentices in the heart of Paris.
 
