@@ -4,7 +4,7 @@ layout: default
 
 ## The Ex[cease]tance
 ### Reevaluating Death-Related Institutions in the Dutch Context: A Reflection on Modern Western Societies and the Potential for Healthier and Sustainable Practices.
-###### _YMS30306_
+###### _YMS30306 - Metropolitan Innovators_
 
 
 ![image](assets/img/exceasetance/Fig1_JJCL.png)
