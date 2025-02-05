@@ -4,7 +4,8 @@ layout: default
 
 ### Tensegrity Pavilion 
 #### Digital Prototyping & Experimental Research
-###### _Graduation Project_
+#### Graduation Project
+###### _Taller de Producción Digital y Proyecto 1 & 2_
 
 This investigation demonstrated the power of a non-linear research approach that embraces the interplay between digital and physical realms.
 
