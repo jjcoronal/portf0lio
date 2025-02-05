@@ -4,7 +4,7 @@ layout: default
 
 ### Mexico City: Twelve archeologies of housing at a crossroads
 #### Tatiana Bilbao Estudio 
-###### _Social Service_
+###### _Social Service, 2019 - 2020_
 
 The main objective is to explore how architecture and the design of collective spaces can foster more equitable and sustainable social relationships, free from the commercialization and legal control that typically govern urban life. The study aims to demonstrate that these spaces can serve as platforms to redefine coexistence and challenge traditional social and economic structures, promoting fairer and more accessible housing models that integrate community and environmental needs.
 
