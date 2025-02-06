@@ -84,7 +84,7 @@ The research unfolded through a non-linear iterative process, seamlessly integra
 
 From a reinterpretation of the creative process and the work of the North American artist Chuck Close, the geometric bases on which his discourse is built were abstracted and translated into the Python programming language. 
 
-> [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="115">](page10.md)
+> [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
 
 ---
