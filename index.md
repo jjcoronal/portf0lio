@@ -27,7 +27,7 @@ The research highlights the gaps between the design of the waste management syst
 
 Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product. The initiative combines physical tokens (bracelets, badges, or keychains) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
 
-> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md)  <img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">(page6.md)
+> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
 
 ---
 
@@ -78,7 +78,7 @@ Conceiving the use of wood, through forest use and maintenance, as an alternativ
 
 The research unfolded through a non-linear iterative process, seamlessly integrating digital experimentation with the creation of physical prototypes. This dynamic approach fostered a deeper understanding of the design's behavior and material properties, allowing for constant feedback and refinement.
 
-> <img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200"> <img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">
+> [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md) [<img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">](page9.md)
 
 ### [Codified Reinterpretation](page10.md)
 
