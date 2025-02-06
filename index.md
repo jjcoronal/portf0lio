@@ -27,7 +27,7 @@ The research highlights the gaps between the design of the waste management syst
 
 Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product. The initiative combines physical tokens (bracelets, badges, or keychains) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
 
-> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page-1.md)  <img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">(page-1.md)
+> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md)  <img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">(page6.md)
 
 ---
 
@@ -38,20 +38,20 @@ Unmute Commute is an entrepreneurial venture that rethinks public transit as a s
 The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
 It envisions new discourses of designing alternative spatial strategies for death and remembrance beyond colonial narratives.
 
-> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">
+> [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
 ### [Raindrops of Change](page3.md)
 
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
 Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
-> <img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">
+> [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
 
 ### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
 
 Acknowledging the oversupply of office spaces in the city and the financial inaccessibility of acquiring permanent housing, this research explores an alternative model of temporary urban living tailored for young professionals. 
 
-> <img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">
+> [<img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">](page4.md)
 
 ### [Follow-up Research: CLJT Housing Typology | (2/2)](page5.md)
 
@@ -61,7 +61,7 @@ By providing an accessible first step toward independent living, the researched 
 
 The research focuses on analyzing and understanding collective housing models and how shared spaces within these models can serve as tools for social change. It questions the traditional model of private property and the nuclear family, arguing that these structures perpetuate inequalities and limit the possibilities for socialization and the collectivization of domestic and reproductive labor.
 
-> <img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">
+> [<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">](page7.md)
 
 ---
 
@@ -71,7 +71,7 @@ The research focuses on analyzing and understanding collective housing models an
 
 Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design
 
-> <img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">
+> [<img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">](page8.md)
 
 
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
