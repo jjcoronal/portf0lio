@@ -5,11 +5,11 @@ layout: default
 ### Wood Prototyping, Fabrication, & Community Engagement
 #### Taller Casa-Estudio 
 
-The research process required a strict building criteria set onto digital parameters to later generate an extensive database where different iterations of the same principles coudl be presented to the client and be evaluated on feasibility and aesthetics.
-
-![image](assets/img/casa-estudio/240925_PF_MADE_115.png)
+The research process required a strict building criteria set onto digital parameters to later generate an extensive _definition_ where different iterations of the same principles could be presented to the client and be evaluated on feasibility and aesthetics.
 
 ![image](assets/img/casa-estudio/IMG_8742.jpeg)
+
+![image](assets/img/casa-estudio/240925_PF_MADE_115.png)
 
 ![image](assets/img/casa-estudio/240925_PF_MADE_1.jpg)
 
