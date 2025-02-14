@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Clean Inner City Living Lab
-###### _MSc. MADE | AMS Institute_
+###### _MSc. MADE Living Lab | AMS Institute_
 
 A Living Lab approach was used that emphasizes collaboration with local stakeholders. By focusing on residents and workers who directly interact with waste daily, the report seeks to understand how systemic issues contribute to the problem.
 
