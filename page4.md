@@ -1,5 +1,5 @@
 ## Post-Covid19 Urban Dynamics in Mexico City | (1/2)
-###### _Personal project, 2020_
+###### _Personal project_
 
 By leveraging mixed-use zoning regulations in areas adjacent to the city’s economic corridors, the study proposes retrofitting underutilized office spaces into compact, habitable units.
 
