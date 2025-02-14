@@ -3,7 +3,7 @@ layout: default
 ---
 
 # UnmuteCommute
-###### _Joint course project_
+#### _MSc. MADE - Joint course project_
 ###### _Metropolitan Data 2 & Entrepreneurial Skills_
 
 Unmute Commute explores mobility, social interaction, and behavioral change from an entrepreneurial and data-driven perspective. 
