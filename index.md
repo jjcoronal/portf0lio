@@ -4,9 +4,9 @@ layout: default
 
 ## About me
 
-> _I integrate **theory**, **design experimentation**, and **real-world applications**, bridging abstract concepts with practical, impactful solutions. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change._
+> _I integrate **theory**, **design experimentation**, and **real-world applications**, bridging abstract concepts with practical, impactful solutions. Through **research-driven innovation** and **multicultural collaboration**, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change._
 
-> _My work is driven by a deep sensitivity to **cultural narratives**, **human experiences**, and **systemic inequalities**, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning **more inclusive futures in design and urbanism**. 
+> _My work is driven by a deep sensitivity to **cultural narratives**, **human experiences**, and **systemic inequalities**, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning **more inclusive futures in design and urbanism**._
 
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
