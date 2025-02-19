@@ -20,14 +20,13 @@ layout: default
 
 ### [Clean Inner City Living Lab](page-1.md)
 
-The research highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area. Using a socio-technical systems framework, the misalignments between social behaviors, technical infrastructure, and waste management processes are identified.
+The research highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
 ### [UnmuteCommute](page6.md)
 
-Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product. The initiative combines physical tokens (bracelets, badges, or keychains) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
-
+Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product.
 > [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
 
 ---
