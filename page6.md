@@ -6,14 +6,15 @@ layout: default
 #### _MSc. MADE - Joint course project_
 ###### _Metropolitan Data 2 & Entrepreneurial Skills_
 
-Unmute Commute explores mobility, social interaction, and behavioral change from an entrepreneurial and data-driven perspective. 
+Unmute Commute explores mobility, social interaction, and behavioral change from an entrepreneurial and data-driven perspective. The initiative combines physical tokens (bracelets) with a digital engagement platform, providing commuters with a low-effort, opt-in method to signal their openness to conversation.
 
-It leverages GIS analysis to identify high-potential commuter hubs, balancing scientific research, urban mobility studies, and marketing tactics to craft a scalable, human-centered product.
+
+The analysis used GIS analysis to identify high-potential commuter hubs, balancing scientific research, urban mobility studies, and marketing tactics to craft a scalable, human-centered product.
 
 ![image](assets/img/unmutecommute/Layout - MCAfinal.png)
 ![image](assets/img/unmutecommute/Layout - trainlinesfinal.png)
 
-The product was tested through small-scale trials, GIS-based location analysis, and structured interviews, refining the design, functionality, and marketing strategy before a broader rollout.
+Small-scale trials, GIS-based location analysis, and structured interviews were carried out in order to refine the design, functionality, and marketing strategy.
 
 ![image](assets/img/unmutecommute/prototypenew.png)
 ![image](assets/img/unmutecommute/web_画板 1.png)
