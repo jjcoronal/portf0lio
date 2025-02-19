@@ -36,14 +36,12 @@ Unmute Commute is an entrepreneurial venture that rethinks public transit as a s
 ### [The Ex[cease]tance](page2.md)
 
 The Exceasetance engages with the logistics of burial and its embedded power structures, critically examinining Western funerary practices through a Mexican cultural lens.
-It envisions new discourses of designing alternative spatial strategies for death and remembrance beyond colonial narratives.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
 ### [Raindrops of Change](page3.md)
 
 Decolonial Niche Innovations seeks to challenge the dominant paradigms of infrastructure and technological development by centering non-Western knowledge systems.
-Through this lens, it explores alternative design methodologies that resist extractivist and capitalist models, offering a roadmap for decolonial futures.
 
 > [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
 
@@ -59,7 +57,7 @@ By providing an accessible first step toward independent living, the researched 
 
 ### [MEXICO CITY: Twelve archeologies of housing at a crossroads](page7.md)
 
-The research focuses on analyzing and understanding collective housing models and how shared spaces within these models can serve as tools for social change. It questions the traditional model of private property and the nuclear family, arguing that these structures perpetuate inequalities and limit the possibilities for socialization and the collectivization of domestic and reproductive labor.
+The research focuses on analyzing and understanding collective housing models and how shared spaces within these models can serve as tools for social change.
 
 > [<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">](page7.md)
 
@@ -76,13 +74,13 @@ Conceiving the use of wood, through forest use and maintenance, as an alternativ
 
 ### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
 
-The research unfolded through a non-linear iterative process, seamlessly integrating digital experimentation with the creation of physical prototypes. This dynamic approach fostered a deeper understanding of the design's behavior and material properties, allowing for constant feedback and refinement.
+The research unfolded through a non-linear iterative process, integrating digital experimentation with the creation of physical prototypes within the lines of a tensegrity structural system.
 
 > [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md) [<img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">](page9.md)
 
 ### [Codified Reinterpretation](page10.md)
 
-From a reinterpretation of the creative process and the work of the North American artist Chuck Close, the geometric bases on which his discourse is built were abstracted and translated into the Python programming language. 
+From a reinterpretation of the creative process and the work of the North American artist Chuck Close, the formal results of his discourse were abstracted and translated into a digital form. 
 
 > [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
