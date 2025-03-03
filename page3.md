@@ -24,6 +24,8 @@ Escobar sees this as a consequence of Eurocentric ontological design, where West
 
 > Taking on the model of MLP by Geels, arrows are used to show the permeability and magnitude of the genesis and impact of DNI within the overall system. Under the MLP perspective, the hegemony of the One-World World regime is contested and influenced on a systematic level incorporating DNI and then creating Decolonial Transformations.
 
+[Full essay available upon request]
+
 
 **References**
 
