@@ -22,4 +22,6 @@ This diagram maps the movement of human bodies within burial processes, illustra
 
 A flow diagram mapping out the death and burial industry reveals how the process is structured into phases, the decisions involved, the associated expenses, and the emotional & financial pressure it imposes on grieving relatives—especially when arrangements have not been previously discussed.
 
+[Full essay available upon request]
+
 [back](./)
