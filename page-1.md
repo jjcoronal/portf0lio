@@ -20,8 +20,3 @@ Due to the numerous challenges surrounding waste management in De Wallen, and be
 This visualization unpacks the journey of waste, from individual choices and behaviors to the challenges of storage, collection, and disposal in this dense urban area. It is an exploration for those interested in deepening their knowledge about waste in De Wallen.
 
 [back](./)
-
-
-
-
-<iframe src="https://Fatimazohra.kumu.io/waste-system-in-the-wallen" width="470" height="300" frameborder="0"></iframe> 
