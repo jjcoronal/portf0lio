@@ -7,6 +7,7 @@ layout: default
 ###### _YMS30306 - Metropolitan Innovators_
 
 As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities
+
 ![image](assets/img/exceasetance/assets/img/exceasetance/visualizing-amsterdams-diverse-migrational-backgrounds.jpg)
 
 The map within The Exceasetance illustrates the scarcity and spatial distribution of cemeteries in compact cities like Amsterdam. Due to high urban density and limited land availability, cemeteries are predominantly located in peripheral areas, pushing burial practices away from the urban fabric and daily life. This spatial marginalization reflects a broader societal tendency to remove death from cotidianeity, treating it as an exceptional event rather than an integrated part of human experience.
