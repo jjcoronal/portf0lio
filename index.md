@@ -4,11 +4,9 @@ layout: default
 
 ## About me
 
-> _I am an urban innovation practitioner with experience in coordinating living labs, stakeholder engagement, and system-change strategies._
+> _I integrate theory, design experimentation, and real-world applications in urban environments. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change.
 
-> _My work has involved facilitating collaboration between researchers, municipal actors, residents, and businesses; developing participatory methods such as guided walks to surface new perspectives; and supporting project management and strategic planning. These experiences have given me the ability to translate complex urban challenges into actionable insights and to bridge the gap between academic research, municipal policy, and community practice._
-
-> _I am particularly motivated by projects that combine experimentation, entrepreneurship, and co-creation to address pressing urban challenges. Whether in living labs, innovation hubs, or city-university partnerships, I aim to contribute to the design of resilient and regenerative cities through inclusive and practical approaches._
+> _My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
