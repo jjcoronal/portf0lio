@@ -6,9 +6,9 @@ layout: default
 
 > _I am an urban innovation practitioner with experience in coordinating living labs, stakeholder engagement, and system-change strategies._
 
-> _ My work has involved facilitating collaboration between researchers, municipal actors, residents, and businesses; developing participatory methods such as guided walks to surface new perspectives; and supporting project management and strategic planning. These experiences have given me the ability to translate complex urban challenges into actionable insights and to bridge the gap between academic research, municipal policy, and community practice._
+> _My work has involved facilitating collaboration between researchers, municipal actors, residents, and businesses; developing participatory methods such as guided walks to surface new perspectives; and supporting project management and strategic planning. These experiences have given me the ability to translate complex urban challenges into actionable insights and to bridge the gap between academic research, municipal policy, and community practice._
 
-> _ I am particularly motivated by projects that combine experimentation, entrepreneurship, and co-creation to address pressing urban challenges. Whether in living labs, innovation hubs, or city-university partnerships, I aim to contribute to the design of resilient and regenerative cities through inclusive and practical approaches._
+> _I am particularly motivated by projects that combine experimentation, entrepreneurship, and co-creation to address pressing urban challenges. Whether in living labs, innovation hubs, or city-university partnerships, I aim to contribute to the design of resilient and regenerative cities through inclusive and practical approaches._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
