@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-> _I integrate theory, design experimentation, and real-world applications in urban environments. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change.
+> _I integrate theory, design experimentation, and real-world applications in urban environments. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change._
 
 > _My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism._
 
