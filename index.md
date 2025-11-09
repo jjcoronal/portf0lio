@@ -14,12 +14,19 @@ layout: default
 
 ---
 
-# Multidisciplinary Collaborations
+# Master's Thesis Project
 
+### [Picking Up De Wallen](page12.md)
+
+The research demonstrates that research-driven tourism can transform the city into an active learning space where participants collaboratively make sense of social, material, and ethical complexities surrounding waste systems.
+
+> [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
+
+# Multidisciplinary Collaborations
 
 ### [Clean Inner City Living Lab](page-1.md)
 
-The research highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
+The living lab case highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
