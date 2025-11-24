@@ -13,7 +13,7 @@ The study identified five recurring patterns of learning: (1) connection with ot
 
 Methodologically, the research shows how hands-on, critical approaches can shift power, challenge dominant stories, and imagine new ways of living in the city, aligning with Escobar’s (2018)idea of the pluriverse. Although participants experienced strong emotional and perceptual shifts, lasting behavior change was limited. This suggests a need for ongoing or supported forms of engage- ment. Toxic tours turn extractive forms of tourism into opportunities for care, ethical awareness, and regeneration by framing travel as a space for reflection, learning, and shared action. This approach offers a practical model for research- ers, policymakers, and practitioners working toward more sustainable and partic- ipatory urban futures.
 
-<img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="500">
+<img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
 
 ![image](assets/img/thesis/Thesis_3.jpg)
 ![image](assets/img/thesis/FinalThesis_4.jpg)
