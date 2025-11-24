@@ -21,7 +21,6 @@ Methodologically, the research shows how hands-on, critical approaches can shift
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 ![image](assets/img/thesis/FinalThesis_7.jpg)
 ![image](assets/img/thesis/FinalThesis_8.jpg)
-![image](assets/img/thesis/FinalThesis_9.jpg)
 ![image](assets/img/thesis/FinalThesis_10.jpg)
 
 
