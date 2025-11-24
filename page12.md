@@ -4,8 +4,11 @@ layout: default
 
 ### Picking Up the Red-Light District
 #### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
-###### Abstract
 
+![image](assets/img/thesis/FinalThesis_.jpg)
+![image](assets/img/thesis/FinalThesis_2.jpg)
+
+###### Abstract
 
 This thesis examines the use of toxic tours as a method to research waste, tourism, and toxicity in Amsterdam’s Red-Light District. The research incorpo- rates perspectives from Discard Studies, Degrowth, and Critical Design to frame waste as a relational, cultural, and political phenomenon rather than an ‘issue’ to be solved. Toxic tours, or guided critical walks, positioned participants as co-researchers, engaging them in structured, hands-on process such as observ- ing, photographing, collecting, and reflecting on discarded items.
 
@@ -13,14 +16,15 @@ The study identified five recurring patterns of learning: (1) connection with ot
 
 Methodologically, the research shows how hands-on, critical approaches can shift power, challenge dominant stories, and imagine new ways of living in the city, aligning with Escobar’s (2018)idea of the pluriverse. Although participants experienced strong emotional and perceptual shifts, lasting behavior change was limited. This suggests a need for ongoing or supported forms of engage- ment. Toxic tours turn extractive forms of tourism into opportunities for care, ethical awareness, and regeneration by framing travel as a space for reflection, learning, and shared action. This approach offers a practical model for research- ers, policymakers, and practitioners working toward more sustainable and partic- ipatory urban futures.
 
-![image](assets/img/thesis/Corona Lucio, Juan Jose - 6. Final Thesis_.jpg)
-![image](assets/img/thesis/Corona Lucio, Juan Jose - 6. Final Thesis_2.jpg) 
-![image](assets/img/thesis/IMG_6385.jpeg)
-![image](assets/img/thesis/IMG_6476.jpeg)
-![image](assets/img/thesis/IMG_7235.jpeg)
-![image](assets/img/thesis/IMG_7264.jpeg)
-![image](assets/img/thesis/IMG_7273.jpeg)
-![image](assets/img/thesis/IMG_6233.jpeg)
+![image](assets/img/thesis/FinalThesis_3.jpg)
+![image](assets/img/thesis/FinalThesis_4.jpg)
+![image](assets/img/thesis/FinalThesis_5.jpg)
+![image](assets/img/thesis/FinalThesis_6.jpg)
+![image](assets/img/thesis/FinalThesis_7.jpg)
+![image](assets/img/thesis/FinalThesis_8.jpg)
+![image](assets/img/thesis/FinalThesis_9.jpg)
+![image](assets/img/thesis/FinalThesis_10.jpg)
+
 
 
 
