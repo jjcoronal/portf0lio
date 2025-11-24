@@ -5,7 +5,8 @@ layout: default
 ### Picking Up the Red-Light District
 #### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
-<img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="200">
+<img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="600">
+
 ![image](assets/img/thesis/FinalThesis_.jpg)
 
 ###### Abstract
