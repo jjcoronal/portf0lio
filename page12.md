@@ -6,7 +6,6 @@ layout: default
 #### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
 ![image](assets/img/thesis/FinalThesis_.jpg)
-![image](assets/img/thesis/FinalThesis_2.jpg)
 
 ###### Abstract
 
