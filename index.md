@@ -6,7 +6,7 @@ layout: default
 
 > _Professional in urban innovation and environmental governance with a transdisciplinary background spanning Europe and Latin America. I combine research, design methodologies, and strategic coordination to support sustainable transitions, stakeholder engagement, CSR initiatives, and policy development. My experience includes research-driven innovation within Amsterdam’s living labs and multi-actor municipal projects, where I’ve contributed to translate complex challenges into actionable strategies, facilitate co-creation, and strengthen governance processes. I’m motivated by roles that require translating complex challenges into actionable strategies, whether in climate adaptation, circularity, water governance, or urban development._
 
-                                        <img src="assets/img/a011eeed-b2b0-4a45-a048-e78ac77d5028.jpg" alt="Alt Text" width="225" height="450">
+    <img src="assets/img/a011eeed-b2b0-4a45-a048-e78ac77d5028.jpg" alt="Alt Text" width="225" height="450">
 
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
