@@ -4,9 +4,7 @@ layout: default
 
 ## About me
 
-> _I integrate theory, design experimentation, and real-world applications in urban environments. Through research-driven innovation and multicultural collaboration, I strive to translate complex systems thinking into actionable urban strategies that support sustainable environmental and societal change._
-
-> _My work is driven by a deep sensitivity to cultural narratives, human experiences, and systemic inequalities, fostering a commitment to rethinking spatial practices, challenging colonial legacies, and envisioning more inclusive futures in design and urbanism._
+> _Professional in urban innovation and environmental governance with a transdisciplinary background spanning Europe and Latin America. I combine research, design methodologies, and strategic coordination to support sustainable transitions, stakeholder engagement, CSR initiatives, and policy development. My experience includes research-driven innovation within Amsterdam’s living labs and multi-actor municipal projects, where I’ve contributed to translate complex challenges into actionable strategies, facilitate co-creation, and strengthen governance processes. I’m motivated by roles that require translating complex challenges into actionable strategies, whether in climate adaptation, circularity, water governance, or urban development._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
