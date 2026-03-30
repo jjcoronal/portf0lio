@@ -80,7 +80,7 @@ Conceiving the use of wood, through forest use and maintenance, as an alternativ
 
 This project exemplifies how design translates intangible values into material systems that shape how users experience beauty and meaning. In Caudalie's case, wine heritage and wellness become coherent sensory ecosystems through nested relationships between concept, material, and user interaction. By understanding how technical systems (material sourcing, spatial acoustics, thermal properties) integrate with human perception, design becomes infrastructure for measurable outcomes such as deeper user engagement, brand coherence, and market differentiation.
 
-> [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page8.md)
+> [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
 
 ### [Tensegrity Pavilion | Digital Prototyping & Experimental Research](page9.md)
 
