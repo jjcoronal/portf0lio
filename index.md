@@ -14,9 +14,10 @@ layout: default
 
 # Master's Thesis Project
 
-### [Picking Up De Wallen](page12.md)
+### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-The research demonstrates that research-driven tourism can transform the city into an active learning space where participants collaboratively make sense of social, material, and ethical complexities surrounding waste systems.
+The research demonstrates that research-driven tourism can transform the city into an active learning space where participants collaboratively make sense of social, material, and ethical complexities surrounding waste systems. This work Demonstrates the ability to reframe conventional approaches, engage diverse stakeholders through Participatory-Action Research, and translate complex environmental research into accessible public engagement formats.
+
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
