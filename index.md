@@ -72,12 +72,17 @@ The research focuses on analyzing and understanding collective housing models an
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
-Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design
+Conceiving the use of wood, through forest use and maintenance, as an alternative material for construction, the present research and design project seeks to establish a closer dialogue between unskilled labor, the architect and digital design.
 
 > [<img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">](page8.md)
 
+### [Designing for Experience](page14.md)
 
-### [Tensegrity Pavilion – Digital Prototyping & Experimental Research](page9.md)
+This project exemplifies how design translates intangible values into material systems that shape how users experience beauty and meaning. In Caudalie's case, wine heritage and wellness become coherent sensory ecosystems through nested relationships between concept, material, and user interaction. By understanding how technical systems (material sourcing, spatial acoustics, thermal properties) integrate with human perception, design becomes infrastructure for measurable outcomes such as deeper user engagement, brand coherence, and market differentiation.
+
+> [<img src="assets/img/caudalie/Screenshot 2026-03-31 at 00.06.43.png" alt="Alt Text" width="300" height="200">](page8.md)
+
+### [Tensegrity Pavilion | Digital Prototyping & Experimental Research](page9.md)
 
 The research unfolded through a non-linear iterative process, integrating digital experimentation with the creation of physical prototypes within the lines of a tensegrity structural system.
 
