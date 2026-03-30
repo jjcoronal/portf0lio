@@ -4,7 +4,11 @@ layout: default
 
 ## About me
 
-> _Professional in urban innovation and environmental governance with a transdisciplinary background spanning Europe and Latin America. I combine research, design methodologies, and strategic coordination to support sustainable transitions, stakeholder engagement, CSR initiatives, and policy development. My experience includes research-driven innovation within Amsterdam’s living labs and multi-actor municipal projects, where I’ve contributed to translate complex challenges into actionable strategies, facilitate co-creation, and strengthen governance processes. I’m motivated by roles that require translating complex challenges into actionable strategies, whether in climate adaptation, circularity, water governance, or urban development._
+> _I'm a transdisciplinary professional working at the intersection of urban innovation, environmental governance, and systemic design. My background spans Europe and Latin America, where I've developed expertise in translating between research, design, and policy to unlock sustainable transitions._
+>
+> _I solve complex problems by understanding real constraints and identifying where leverage exists in a system. Rather than applying generic solutions, I design, implement, and measure interventions that work within actual governance structures, stakeholder dynamics, and material realities. This requires moving fluidly between disciplines—research methodology, spatial design, strategic coordination—and engaging the people who can actually move the needle: researchers, civil servants, businesses, and communities._
+>
+> _My work across Mexico, France, and the Netherlands has taught me that systemic change happens when you see problems at multiple scales simultaneously and create conditions for different actors to collaborate. I'm driven by the challenge of turning complex sustainability and governance problems into tangible, measurable outcomes._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
