@@ -4,3 +4,8 @@
 ![image](assets/img/Artworks/240925_PF_MADE40.jpg)
 ![image](assets/img/Artworks/240925_PF_MADE42.jpg)
 ![image](assets/img/Artworks/240925_PF_MADE39.jpg)
+
+
+You can find some of my most recent artwork [here](https://www.instagram.com/jjclucio)
+
+[back](./)
