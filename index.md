@@ -100,7 +100,7 @@ From a reinterpretation of the creative process and the work of the North Americ
 
 ### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
 
-> [<img src="assets/img/prexpren 4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page_15prexpren4.md)
+> [<img src="assets/img/prexpren 4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
 ---
 
 # Others
