@@ -20,9 +20,10 @@ The final phase explored 2D geometries with the aim of scaling their structural 
 
 <img src="assets/img/page16/42.gif" width="600" height="400" />
 
-<img src="assets/img/page16/72.gif" width="600" height="400" />
-
-<img src="assets/img/page16/7.PNG" width="600" height="400" />
-
 CATMcHn1.80x.80
 A macramé catenary structure weighing under 15kg, load-tested to support eight people exceeding half a tonne combined weight.
+
+<img src="assets/img/page16/72.gif" width="600" height="400" />
+
+
+
