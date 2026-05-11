@@ -16,7 +16,7 @@ layout: default
 
 ---
 
-# Master's Thesis Project
+# Facilitation & Collective Mobilisation
 
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
@@ -25,22 +25,13 @@ The research demonstrates that research-driven tourism can transform the city in
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
-# Multidisciplinary Collaborations
+# Systems Research & Urban Governance
 
 ### [Clean Inner City Living Lab](page-1.md)
 
 The Living Lab case highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
-
-### [UnmuteCommute](page6.md)
-
-Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product.
-> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
-
----
-
-# Urban Research Projects
 
 ### [The Ex[cease]tance](page2.md)
 
@@ -72,7 +63,16 @@ The research focuses on analyzing and understanding collective housing models an
 
 ---
 
-# Research & Design Projects
+# Product & Venture Design
+
+### [UnmuteCommute](page6.md)
+
+Unmute Commute is an entrepreneurial venture that rethinks public transit as a social space, fostering connections between commuters through a data-driven, user-centric product.
+> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
+
+---
+
+# Design & Fabrication
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
