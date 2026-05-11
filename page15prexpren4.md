@@ -15,13 +15,13 @@ _text_
 
 _text_
 
-<img src="assets/img/prexpren4/Design.png" alt="Alt Text" width="600" height="400">
+<img src="assets/img/prexpren4/Design.png" alt="Alt Text" width="600" height="425">
 
-<img src="assets/img/prexpren4/evaluation.png" alt="Alt Text" width="600" height="400">
+<img src="assets/img/prexpren4/evaluation.png" alt="Alt Text" width="600" height="425">
 
 _text_
 
-<img src="assets/img/prexpren4/p8.png" alt="Alt Text" width="300" height="175"><img src="assets/img/prexpren4/p67.png" alt="Alt Text" width="300" height="175"><img src="assets/img/prexpren4/p82.png" alt="Alt Text" width="300" height="175">
+<img src="assets/img/prexpren4/p8.png" alt="Alt Text" width="300" height="185"><img src="assets/img/prexpren4/p67.png" alt="Alt Text" width="300" height="185"><img src="assets/img/prexpren4/p82.png" alt="Alt Text" width="300" height="185">
 
 _text_
 
