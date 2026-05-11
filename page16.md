@@ -14,7 +14,7 @@ The final phase explored 2D geometries with the aim of scaling their structural 
 
 <img src="assets/img/page16/42.gif" width="600" height="400" />
 
-<img src="assets/img/page16/4.jpg" width="100" height="150" /> <img src="assets/img/page16/5.jpg" width="100" height="150" /> <img src="assets/img/page16/6.jpg" width="100" height="150" />
+<img src="assets/img/page16/4.jpg" width="200" height="300" /> <img src="assets/img/page16/5.jpg" width="300" height="200" /> <img src="assets/img/page16/6.jpg" width="300" height="200" />
 
 
 
