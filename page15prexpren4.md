@@ -21,9 +21,7 @@ _text_
 
 _text_
 
-<img src="assets/img/prexpren4/p8.png" alt="Alt Text" width="350" height="200">
-<img src="assets/img/prexpren4/p67.png" alt="Alt Text" width="350" height="200">
-<img src="assets/img/prexpren4/p82.png" alt="Alt Text" width="350" height="200">
+<img src="assets/img/prexpren4/p8.png" alt="Alt Text" width="350" height="200"><img src="assets/img/prexpren4/p67.png" alt="Alt Text" width="350" height="200"><img src="assets/img/prexpren4/p82.png" alt="Alt Text" width="350" height="200">
 
 _text_
 
