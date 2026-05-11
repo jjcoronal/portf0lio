@@ -14,11 +14,11 @@ The investigation then shifted toward pneumatic structures, which achieve rigidi
 
 <img src="assets/img/page16/4.jpg" width="200" height="300" />
 
-<img src="assets/img/page16/42.gif" width="600" height="400" />
-
 <img src="assets/img/page16/5.jpg" width="300" height="200" />
 
 <img src="assets/img/page16/6.jpg" width="300" height="200" />
+
+<img src="assets/img/page16/42.gif" width="600" height="400" />
 
 <img src="assets/img/page16/72.gif" width="600" height="400" />
 
