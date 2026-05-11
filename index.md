@@ -100,9 +100,9 @@ From a reinterpretation of the creative process and the work of the North Americ
 
 ### [Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding](page16.md)
 
-> [<img src="assets/img/page16/42.gif" width="600" height="400" />](page16.md)
-
 Using form-finding principles, minimal surfaces, and geometric and structural properties, this workshop-based research developed team investigations exploring the capabilities of physical models, their variables, and the reasons behind specific structural outcomes.
+
+> [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
 
 ### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
 
