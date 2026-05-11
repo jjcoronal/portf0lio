@@ -52,7 +52,7 @@ An alternative housing model for young professionals navigating oversupplied off
 
 ### [CLJT Housing Typology: Follow-up Research | (2/2)](page5.md)
 
-By providing an accessible first step toward independent living, the researched housing model represents a progressive urban housing strategy—one that rethinks inclusion, affordability, and social mobility in one of the world's most dynamic metropolitan centers.
+By providing an accessible first step toward independent living, the researched housing model represents a progressive urban housing strategy that rethinks inclusion, affordability, and social mobility in one of the world's most dynamic metropolitan centers.
 
 ### [Mexico City: Twelve archeologies of housing at a crossroads](page7.md)
 
