@@ -98,9 +98,9 @@ From a reinterpretation of the creative process and the work of the North Americ
 
 > [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
-### [Exogenous Protocols Endogenous Properties](page_15_prexpren_4.md)
+### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
 
-> [<img src="assets/img/prexpren 4/Arbolgral.png" alt="Alt Text" width="600" height="100">](page_15_prexpren_4.md)
+> [<img src="assets/img/prexpren 4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page_15prexpren4.md)
 ---
 
 # Others
