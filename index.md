@@ -107,7 +107,7 @@ Using form-finding principles, minimal surfaces, and geometric and structural pr
 ### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
 
 > [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
-> [<img src="assets/img/prexpren4/p8.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
+
 ---
 
 # Others
