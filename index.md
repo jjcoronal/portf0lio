@@ -106,6 +106,8 @@ Using form-finding principles, minimal surfaces, and geometric and structural pr
 
 ### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
 
+A collective taxonomy of over 100 fabric-formed concrete pieces, generated within a shared constraint and evaluated as a grammar for structural aggregation.
+
 > [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
 
 ---
