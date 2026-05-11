@@ -3,13 +3,17 @@ layout: default
 ---
 
 ## Exogenous Properties, Endogenous Protocols
-###### Fabric formwork, collective constraint, and the structural logic of poured concrete
+### Fabric formwork, collective constraint, and the structural logic of poured concrete
 
 _A workshop-based research project exploring structural and spatial possibilities within a shared constraint: a wooden frame, 80 × 80 × 20 cm, fabric stretched inside, concrete poured in. Each participant worked within identical boundaries to generate a distinct piece. The collective output mapped over 100 variations across four structural families, documented in a shared taxonomy built from individual iteration._
+
+###### Filogenetic Tree
 
 <img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="600" height="400">
 
 _The personal research focused on pieces P.7, P.8, P.9, P.67, P.81, and P.82, tracing how small changes in fabric geometry, pour sequence, and setting conditions produced radically different structural outcomes. Each iteration was evaluated across six variables: intention, emptying, curvature, setting time, tension/compression/gravity, and conclusion. P.8 and P.82 emerged as the most resolved, both achieving 12 kg final weight with consistent double-curvature geometry._
+
+###### Personal Research
 
 <img src="assets/img/prexpren4/Diagramasjj.png" alt="Alt Text" width="400" height="600">
 
