@@ -5,7 +5,9 @@ layout: default
 ### Wood Prototyping, Fabrication, & Community Engagement
 #### Taller Casa-Estudio 
 
-The research process required a strict building criteria set onto digital parameters to later generate an extensive _definition_ where different iterations of the same principles could be presented to the client and be evaluated on feasibility and aesthetics.
+Timber construction in Mexico sits at a difficult intersection: digitally sophisticated design tools on one side, unskilled labor and limited construction literacy on the other. This project worked inside that gap.
+
+Working within a parametric design framework, the project developed an iterative digital definition that allowed multiple structural and aesthetic configurations to be evaluated against feasibility constraints and presented directly to the client. The definition was not an end product — it was a shared decision-making tool.
 
 ![image](assets/img/casa-estudio/240925_PF_MADE_115.png)
 
@@ -13,7 +15,9 @@ The research process required a strict building criteria set onto digital parame
 
 ![image](assets/img/casa-estudio/240925_PF_MADE.jpg)
 
-Through construction instructions, the aim is to make the construction process accessible and efficient, as well as to establish a dialogue that uses a common language
+The second challenge was translation. Once a configuration was selected, the process required producing construction documentation legible to builders without technical training. Through clear sequencing, visual instructions, and a common material language, the documentation made the fabrication process accessible without simplifying the design intent.
+
+The result was a built structure that moved from parametric model to physical assembly through a deliberate chain of communication between designer, client, and maker.
 
 ![image](assets/img/casa-estudio/IMG_8748.jpeg)
 
