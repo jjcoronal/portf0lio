@@ -80,7 +80,7 @@ Parametric design meets unskilled labour. This project developed a digital defin
 
 > [<img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">](page8.md)
 
-### [Designing for Experience](page14.md)
+### [Concept to Implementation: Designing Sensory Systems for Experiential Outcomes](page14.md)
 
 A material and spatial design project exploring how intangible brand values such as wine heritage, wellness, sensory coherence, are translated into physical systems. An exercise in understanding how technical decisions at the material scale produce measurable outcomes at the experiential scale.
 
