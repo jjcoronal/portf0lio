@@ -11,7 +11,7 @@ _text_
 
 _text_
 
-<img src="assets/img/prexpren4/Diagramasjj.png" alt="Alt Text" width="300" height="600">
+<img src="assets/img/prexpren4/Diagramasjj.png" alt="Alt Text" width="400" height="600">
 
 _text_
 
