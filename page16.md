@@ -22,7 +22,7 @@ The investigation then shifted toward pneumatic structures, which achieve rigidi
 
 <img src="assets/img/page16/72.gif" width="600" height="400" />
 
-<img src="assets/img/page16/7.png" width="300" height="200" />
+<img src="assets/img/page16/7.PNG" width="600" height="400" />
 
 
 The final phase explored 2D geometries with the aim of scaling their structural properties. Applying form-finding principles, programmed weaving techniques were used to generate double-curvature surfaces and test their load-bearing capacity.
