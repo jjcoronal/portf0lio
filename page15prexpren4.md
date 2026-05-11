@@ -11,7 +11,7 @@ _text_
 
 _text_
 
-[<img src="assets/img/prexpren4/Diagramasjj.png" alt="Alt Text" width="600" height="400">]
+[<img src="assets/img/prexpren4/Diagramasjj.png" alt="Alt Text" width="300" height="600">]
 
 _text_
 
@@ -25,6 +25,7 @@ _text_
 [<img src="assets/img/prexpren4/p67.png" alt="Alt Text" width="600" height="400">]
 [<img src="assets/img/prexpren4/p82.png" alt="Alt Text" width="600" height="400">]
 
+_text_
 
 [<img src="assets/img/prexpren4/01c43048027da8813b5e2efd0668b9162d21f7bb58.jpg" alt="Alt Text" width="600" height="400">]
 [<img src="assets/img/prexpren4/01e47d979508443ba48e6cb1d3fa956d4c070f47a0.jpg" alt="Alt Text" width="600" height="400">]
