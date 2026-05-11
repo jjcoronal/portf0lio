@@ -1,5 +1,6 @@
 
-### Material systems, sensory coherence, and the architecture of brand
+### Concept to Implementation: Designing Sensory Systems for Experiential Outcomes
+
 Design translates intangible values into material decisions. This project examined how a specific set of values (french wine heritage, wellness, craft) could be made physically present through spatial and material choices.
 
 > <img src="assets/img/caudalie/Mood.png" alt="Alt Text" width="300" height="200">
