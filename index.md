@@ -6,9 +6,9 @@ layout: default
 
 > _I'm a transdisciplinary professional working at the intersection of urban innovation, environmental governance, and systemic design. My background spans Europe and Latin America, where I've developed expertise in translating between research, design, and policy to unlock sustainable transitions._
 >
-> _I solve complex problems by understanding real constraints and identifying where leverage exists in a system. Rather than applying generic solutions, I design, implement, and measure interventions that work within actual governance structures, stakeholder dynamics, and material realities. This requires moving fluidly between disciplines—research methodology, spatial design, strategic coordination—and engaging the people who can actually move the needle: researchers, civil servants, businesses, and communities._
+> _I solve complex problems by understanding real constraints and identifying where leverage exists in a system. Rather than applying generic solutions, I design, implement, and measure interventions that work within actual governance structures, stakeholder dynamics, and material realities. This requires moving between disciplines and engaging people from all sorts of backgrounds and specializations._
 >
-> _My work across Mexico, France, and the Netherlands has taught me that systemic change happens when you see problems at multiple scales simultaneously and create conditions for different actors to collaborate. I'm driven by the challenge of turning complex sustainability and governance problems into tangible, measurable outcomes._
+> _My work across México, France, and the Netherlands has taught me that systemic change happens when you see problems at multiple scales simultaneously and create conditions for different actors to collaborate. I'm driven by the challenge of turning complex sustainability and governance problems into tangible, measurable outcomes._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
@@ -20,7 +20,7 @@ layout: default
 
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-The research demonstrates that research-driven tourism can transform the city into an active learning space where participants collaboratively make sense of social, material, and ethical complexities surrounding waste systems. This work Demonstrates the ability to reframe conventional approaches, engage diverse stakeholders through Participatory-Action Research, and translate complex environmental research into accessible public engagement formats.
+The research demonstrates that research-driven tourism can transform the city into an active learning space where participants collaboratively make sense of social, material, and ethical complexities surrounding waste systems. This work demonstrates how to mobilize diverse groups around complex and uncomfortable urban challenges, turning avoidance into engagement through designed experiences and participatory processes.
 
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
@@ -29,7 +29,7 @@ The research demonstrates that research-driven tourism can transform the city in
 
 ### [Clean Inner City Living Lab](page-1.md)
 
-The living lab case highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
+The Living Lab case highlights the gaps between the design of the waste management system and its real-world application, particularly in how waste is perceived and managed in the area.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
