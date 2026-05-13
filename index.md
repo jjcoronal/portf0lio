@@ -52,7 +52,7 @@ An alternative housing model for young professionals navigating oversupplied off
 
 ### [CLJT Housing Typology: Follow-up Research | (2/2)](page5.md)
 
-By providing an accessible first step toward independent living, the researched housing model represents a progressive urban housing strategy that rethinks inclusion, affordability, and social mobility in one of the world's most dynamic metropolitan centers.
+A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition.
 
 > [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="350">](page5.md)
 
