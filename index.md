@@ -54,7 +54,7 @@ An alternative housing model for young professionals navigating oversupplied off
 
 A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition can be a replicable urban strategy with direct implications for Mexico City.
 
-> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="300">](page5.md)
+> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="280">](page5.md)
 
 ### [Mexico City: Twelve archeologies of housing at a crossroads](page7.md)
 
