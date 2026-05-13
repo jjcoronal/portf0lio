@@ -54,6 +54,8 @@ An alternative housing model for young professionals navigating oversupplied off
 
 By providing an accessible first step toward independent living, the researched housing model represents a progressive urban housing strategy that rethinks inclusion, affordability, and social mobility in one of the world's most dynamic metropolitan centers.
 
+> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="300" height="200">](page5.md)
+
 ### [Mexico City: Twelve archeologies of housing at a crossroads](page7.md)
 
 An analysis of collective housing models in Mexico City, examining how shared spaces within residential typologies can function as tools for social change.
