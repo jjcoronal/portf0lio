@@ -50,9 +50,9 @@ An alternative housing model for young professionals navigating oversupplied off
 
 > [<img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">](page4.md)
 
-### [CLJT Housing Typology: Follow-up Research | (2/2)](page5.md)
+### [CLJT Paris as a Housing Strategy for Mexico City: A year as resident-researcher inside a social housing typology | (2/2)](page5.md)
 
-A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition.
+A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition can be a replicable urban strategy with direct implications for Mexico City.
 
 > [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="300">](page5.md)
 
