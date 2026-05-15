@@ -70,7 +70,7 @@ An analysis of collective housing models in Mexico City, examining how shared sp
 
 An entrepreneurial venture rethinking public transit as social infrastructure. Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
 
-> [<img src="assets/img/unmutecommute/web_画板 1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout - MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
+> [<img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="345" height="215">](page6.md) [<img src="assets/img/unmutecommute/Layout-MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
 
 ---
 
