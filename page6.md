@@ -23,10 +23,9 @@ Explore the [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) 
 
 Through an iterative entrepreneurial process, the project evolved from a disruption alert system to a human-centered intervention that transforms transit waiting time into a moment for meaningful interaction. 
 
-![image](assets/img/unmutecommute/Assumptions-02.png)
-![image](assets/img/unmutecommute/VPC_Report_Intervened.png)
-![image](assets/img/unmutecommute/BMC_Report_Intervened.png)
-
+> <img src="assets/img/unmutecommute/Assumptions-02.png" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/unmutecommute/VPC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/unmutecommute/BMC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
 
 
 [back](./)
