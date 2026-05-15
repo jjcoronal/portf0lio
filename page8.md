@@ -29,6 +29,6 @@ The result was a built structure that moved from parametric model to physical as
 
 > <img src="assets/img/casa-estudio/IMG_8727.jpeg" alt="Alt Text" width="300" height="200"> <img src="assets/img/casa-estudio/IMG_8748.jpeg" alt="Alt Text" width="300" height="200"> <img src="assets/img/casa-estudio/IMG_8767.jpeg" alt="Alt Text" width="300" height="200">
 
-> <img src="assets/img/casa-estudio/240925_PF_MADE7.jpg" alt="Alt Text" width="600" height="900">
+![image](assets/img/casa-estudio/240925_PF_MADE7.jpg)
 
 [back](./)
