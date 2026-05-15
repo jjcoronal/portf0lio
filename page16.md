@@ -6,6 +6,8 @@ The research aimed to examine the behavior of selected structural typologies. Th
 
 The final phase explored 2D geometries with the aim of scaling their structural properties. Applying form-finding principles, programmed weaving techniques were used to generate double-curvature surfaces and test their load-bearing capacity. The investigation shifted into macramé weaves using henequén fibers were programmed as part of the same aggregate logic. This exploration led to the final research line: programmed woven structures in catenary form, composed through an aggregate system combining fabric, henequén fibers, concrete, and additives.
 
+###### Material testing
+
 <img src="assets/img/page16/31.gif" width="600" height="400" />
 
 <img src="assets/img/page16/2.png" width="600" height="400" />
