@@ -19,7 +19,7 @@ _The personal research focused on pieces P.7, P.8, P.9, P.67, P.81, and P.82, tr
 
 The fabrication process moved between 2D fabric cutting and digital diagramming, using parametric form-finding to anticipate how gravity, hydraulic pressure during pouring, and differential setting times would deform the cast. Failures were as generative as successes: P.67, rotated hourly during setting, fractured at the joints between extremities and core, revealing how differential cure rates create internal stress concentrations.
 
- ###### Piece Evaluation
+###### Piece Evaluation
 
 <img src="assets/img/prexpren4/Design.png" alt="Alt Text" width="600" height="425">
 
