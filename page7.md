@@ -16,9 +16,9 @@ This case study focuses on Casa de la Covadonga, a historic building in Mexico C
 
 ###### Case Study #10: Casa de la Covadonga
 
-> <img src="assets/img/tabilbao/240925_PF_MADE25.jpg" alt="Alt Text" width="450" height="600">
-> <img src="assets/img/tabilbao/240925_PF_MADE26.jpg" alt="Alt Text" width="450" height="600">
-> <img src="assets/img/tabilbao/240925_PF_MADE27.jpg" alt="Alt Text" width="450" height="600">
+> <img src="assets/img/tabilbao/240925_PF_MADE25.jpg" alt="Alt Text" width="300" height="400">
+> <img src="assets/img/tabilbao/240925_PF_MADE26.jpg" alt="Alt Text" width="300" height="400">
+> <img src="assets/img/tabilbao/240925_PF_MADE27.jpg" alt="Alt Text" width="300" height="400">
 
 ![image]()
 
