@@ -11,7 +11,7 @@ Unmute Commute explores mobility, social interaction, and behavioral change from
 
 The analysis used GIS analysis to identify high-potential commuter hubs, balancing scientific research, urban mobility studies, and marketing tactics to craft a scalable, human-centered product.
 
-![image](assets/img/unmutecommute/Layout-MCAfinal.png)
+![image](assets/img/unmutecommute/Layout_MCAfinal.png)
 ![image](assets/img/unmutecommute/Layout-trainlinesfinal.png)
 
 Small-scale trials, GIS-based location analysis, and structured interviews were carried out in order to refine the design, functionality, and marketing strategy.
@@ -23,7 +23,7 @@ Explore the [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) 
 
 Through an iterative entrepreneurial process, the project evolved from a disruption alert system to a human-centered intervention that transforms transit waiting time into a moment for meaningful interaction. 
 
-> <img src="assets/img/unmutecommute/Assumptions-02.png" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/unmutecommute/Assumptions-02.png" alt="Alt Text" width="300" height="300">
 > <img src="assets/img/unmutecommute/VPC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
 > <img src="assets/img/unmutecommute/BMC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
 
