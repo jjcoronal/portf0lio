@@ -24,7 +24,7 @@ The final phase explored 2D geometries with the aim of scaling their structural 
 
 <img src="assets/img/page16/4.jpg" width="200" height="300" /> <img src="assets/img/page16/5.jpg" width="300" height="200" /> <img src="assets/img/page16/6.jpg" width="300" height="200" />
 
-
+###### Stress resistance test
 
 CATMcHn1.80x.80
 A macramé catenary structure weighing under 15kg, load-tested to support eight people exceeding half a tonne combined weight.
