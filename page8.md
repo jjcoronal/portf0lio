@@ -25,12 +25,14 @@ The second challenge was translation. Once a configuration was selected, the pro
 
 The result was a built structure that moved from parametric model to physical assembly through a deliberate chain of communication between designer, client, and maker.
 
-![image](assets/img/casa-estudio/IMG_8727.jpeg)
+###### Construction process
 
-![image](assets/img/casa-estudio/IMG_8748.jpeg)
+> <img src="assets/img/casa-estudio/IMG_8727.jpeg" alt="Alt Text" width="300" height="200">
 
-![image](assets/img/casa-estudio/IMG_8767.jpeg)
+> <img src="assets/img/casa-estudio/IMG_8748.jpeg" alt="Alt Text" width="300" height="200">
 
-![image](assets/img/casa-estudio/240925_PF_MADE7.jpg)
+> <img src="assets/img/casa-estudio/IMG_8767.jpeg" alt="Alt Text" width="300" height="200">
+
+> <img src="assets/img/casa-estudio/240925_PF_MADE7.jpg" alt="Alt Text" width="600" height="900">
 
 [back](./)
