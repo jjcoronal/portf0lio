@@ -16,11 +16,15 @@ This case study focuses on Casa de la Covadonga, a historic building in Mexico C
 
 ###### Case Study #10: Casa de la Covadonga
 
-![image](assets/img/tabilbao/240925_PF_MADE25.jpg)
+> <img src="assets/img/tabilbao/240925_PF_MADE25.jpg" alt="Alt Text" width="450" height="600">
+> <img src="assets/img/tabilbao/240925_PF_MADE26.jpg" alt="Alt Text" width="450" height="600">
+> <img src="assets/img/tabilbao/240925_PF_MADE27.jpg" alt="Alt Text" width="450" height="600">
 
-![image](assets/img/tabilbao/240925_PF_MADE26.jpg)
+![image]()
 
-![image](assets/img/tabilbao/240925_PF_MADE27.jpg)
+![image]()
+
+![image]()
 
 
 Nuestra Señora de la Covadonga was a voluntary refuge for destitute Spanish women, where they received Christian education, training in handicrafts, reading, writing, and basic arithmetic.
