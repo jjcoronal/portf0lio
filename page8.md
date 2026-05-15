@@ -9,9 +9,15 @@ Timber construction in Mexico sits at a difficult intersection: digitally sophis
 
 Working within a parametric design framework, the project developed an iterative digital definition that allowed multiple structural and aesthetic configurations to be evaluated against feasibility constraints and presented directly to the client. The definition functioned as a shared decision-making tool.
 
+###### Grasshopper definition
+
 ![image](assets/img/casa-estudio/240925_PF_MADE_115.png)
 
+###### Iteration overview
+
 ![image](assets/img/casa-estudio/240925_PF_MADE_1.jpg)
+
+###### Development of selected iteration
 
 ![image](assets/img/casa-estudio/240925_PF_MADE.jpg)
 
