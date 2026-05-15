@@ -22,6 +22,9 @@ By incorporating different geometric configurations, their variables and their o
 ###### Results
 
 ![image](assets/img/close/240925_PF_MADE37.jpg)
+
+###### Close's work
+
 ![image](assets/img/close/101611096_121ec92b8b_b.jpg)
 
 [back](./)
