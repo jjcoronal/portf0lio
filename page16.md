@@ -10,7 +10,11 @@ The final phase explored 2D geometries with the aim of scaling their structural 
 
 <img src="assets/img/page16/31.gif" width="600" height="400" />
 
+###### Definition
+
 <img src="assets/img/page16/2.png" width="600" height="400" />
+
+###### Final piece assembly from previous iterations
 
 <img src="assets/img/page16/1.png" width="600" height="400" />
 
