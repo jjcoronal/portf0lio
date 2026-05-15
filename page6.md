@@ -17,7 +17,7 @@ The analysis used GIS analysis to identify high-potential commuter hubs, balanci
 Small-scale trials, GIS-based location analysis, and structured interviews were carried out in order to refine the design, functionality, and marketing strategy.
 
 ![image](assets/img/unmutecommute/prototypenew.png)
-![image](assets/img/unmutecommute/web_画板 1.png)
+![image](assets/img/unmutecommute/web_1.png)
 
 Explore the [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) to #unmuteyourcommute 
 
