@@ -20,13 +20,6 @@ This case study focuses on Casa de la Covadonga, a historic building in Mexico C
 > <img src="assets/img/tabilbao/240925_PF_MADE26.jpg" alt="Alt Text" width="300" height="400">
 > <img src="assets/img/tabilbao/240925_PF_MADE27.jpg" alt="Alt Text" width="300" height="400">
 
-![image]()
-
-![image]()
-
-![image]()
-
-
 Nuestra Señora de la Covadonga was a voluntary refuge for destitute Spanish women, where they received Christian education, training in handicrafts, reading, writing, and basic arithmetic.
 In 1930, it was declared a historical monument. The foundation owned it until the year 2000, when it was expropriated by the INVI (Instituto de Vivienda del Distrito Federal) for its restoration and recovery.
 
