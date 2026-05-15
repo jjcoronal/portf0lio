@@ -8,9 +8,13 @@ layout: default
 
 The main objective is to explore how architecture and the design of collective spaces can foster more equitable and sustainable social relationships, free from the commercialization and legal control that typically govern urban life. The study aims to demonstrate that these spaces can serve as platforms to redefine coexistence and challenge traditional social and economic structures, promoting fairer and more accessible housing models that integrate community and environmental needs.
 
+###### Case Study Overview & Evaluation
+
 ![image](assets/img/tabilbao/240925_PF_MADE24.jpg)
 
 This case study focuses on Casa de la Covadonga, a historic building in Mexico City's Centro Histórico, and its transformation through a government-led social housing program. It provides insight into the broader urban renewal strategies applied in the late 20th and early 21st centuries and the challenges of balancing historic preservation, social housing, and gentrification.
+
+###### Case Study #8: Casa de la Covadonga
 
 ![image](assets/img/tabilbao/240925_PF_MADE25.jpg)
 
