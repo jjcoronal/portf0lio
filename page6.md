@@ -11,8 +11,9 @@ Unmute Commute explores mobility, social interaction, and behavioral change from
 
 The analysis used GIS analysis to identify high-potential commuter hubs, balancing scientific research, urban mobility studies, and marketing tactics to craft a scalable, human-centered product.
 
-![image](assets/img/unmutecommute/Layout_MCAfinal.png)
-![image](assets/img/unmutecommute/Layout-trainlinesfinal.png)
+> <img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="1200" height="900">
+> <img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="1200" height="900">
+
 
 Small-scale trials, GIS-based location analysis, and structured interviews were carried out in order to refine the design, functionality, and marketing strategy.
 
