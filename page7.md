@@ -14,7 +14,7 @@ The main objective is to explore how architecture and the design of collective s
 
 This case study focuses on Casa de la Covadonga, a historic building in Mexico City's Centro Histórico, and its transformation through a government-led social housing program. It provides insight into the broader urban renewal strategies applied in the late 20th and early 21st centuries and the challenges of balancing historic preservation, social housing, and gentrification.
 
-###### Case Study #8: Casa de la Covadonga
+###### Case Study #10: Casa de la Covadonga
 
 ![image](assets/img/tabilbao/240925_PF_MADE25.jpg)
 
