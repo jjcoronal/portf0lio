@@ -4,7 +4,6 @@ layout: default
 
 ## The Ex[cease]tance
 ### Reevaluating Death-Related Institutions in the Dutch Context
-###### _YMS30306 - Metropolitan Innovators_
 
 As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities
 
