@@ -2,25 +2,53 @@
 layout: default
 ---
 
-## Picking Up the Red-Light District
+## Picking Up the Red-Light District:
 ### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
-##### Abstract
+A research methodology designed as an embodied sensemaking process: nine critical walking tours through Amsterdam's Red-Light District, structured across three co-creation phases, using tourism as both the medium and the object of inquiry. The research produced five recurring patterns of learning showing how playfulness, real-time reflection, and iterative design unlock systemic understanding in ways that traditional research rarely achieves.
 
-This thesis examines the use of toxic tours as a method to research waste, tourism, and toxicity in Amsterdam’s Red-Light District. The research incorporates perspectives from Discard Studies, Degrowth, and Critical Design to frame waste as a relational, cultural, and political phenomenon rather than an ‘issue’ to be solved. Toxic tours, or guided critical walks, positioned participants as co-researchers, engaging them in structured, hands-on process such as observ- ing, photographing, collecting, and reflecting on discarded items.
-
-The study identified five recurring patterns of learning: (1) connection with others creates understanding, (2) playfulness and creativity unlock insights, (3) real-time reflection deepens awareness, (4) small acts of care ground learning in practice, (5) iterative design enables deeper learning. These experiences revealed hidden infrastructures, moral hierarchies, and socio-economic inequalities. They also helped participants develop emotional, ethical, and big-picture understandings that traditional tourism or research rarely offer. Participants shifted from seeing waste as an individual responsibility to understanding it as a shared sys- temic responsibility, demonstrating how tourism can function as a medium for learning, reflection, and collective action..
-
-Methodologically, the research shows how hands-on, critical approaches can shift power, challenge dominant stories, and imagine new ways of living in the city, aligning with Escobar’s (2018)idea of the pluriverse. Although participants experienced strong emotional and perceptual shifts, lasting behavior change was limited. This suggests a need for ongoing or supported forms of engage- ment. Toxic tours turn extractive forms of tourism into opportunities for care, ethical awareness, and regeneration by framing travel as a space for reflection, learning, and shared action. This approach offers a practical model for research- ers, policymakers, and practitioners working toward more sustainable and partic- ipatory urban futures.
-
+#### Cover
 <img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
 
+#### Prologue
+
 ![image](assets/img/thesis/Thesis_3.jpg)
+
+#### Problem contextualization
+Situates the intervention within Amsterdam's Red Light District governance dynamics and complex identity, giving reference for why existing tourism is commonly associated with trash and seen as undesireable, and why management approaches fail to address underlying systemic tensions.
+
 ![image](assets/img/thesis/FinalThesis_4.jpg)
+
+#### Conceptual models
+Conceives the use of toxic tours as devices that can harvest participant knowledge at different scales, starting from embodied experience and connecting it into dominant systems.
 ![image](assets/img/thesis/FinalThesis_5.jpg)
+
+#### Methodology 
+Documents how each phase was designed to build on the previous one, creating an adaptive but structured process that could respond to what participants actually surfaced rather than what was anticipated.
+
+<img src="assets/img/thesis/metodos.png" alt="Alt Text" width="300" height="200">
+
+#### Operationalization
+
+Documents how participants were positioned as co-researchers, not subjects, and how the researcher's own positionality was made visible as part of the sensemaking process.
+
+##### Activity and photo mission structuring
+Participants were positioned as co-researchers, not subjects. 
+
+![image](assets/img/thesis/mapa.png)
+![image](assets/img/thesis/actividades.png)
+
+##### Autoethnography and positionality
+The researcher's own positionality was made visible as a methodological instrument, enabling the group to interrogate assumptions together rather than receive findings.
+
 ![image](assets/img/thesis/FinalThesis_6.jpg)
+
+#### Walk results 
+The process produced patterns, tensions, and insights that emerged from situated participatory inquiry and fed directly into what critical walking methodologies need to have for better stakeholder alignment around contested urban dynamics.
 ![image](assets/img/thesis/Thesis_7.jpg)
 ![image](assets/img/thesis/Thesis_8.jpg)
+
+#### Epilogue 
 ![image](assets/img/thesis/Thesis_10.jpg)
 
 
