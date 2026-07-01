@@ -48,6 +48,12 @@ The process produced patterns, tensions, and insights that emerged from situated
 ![image](assets/img/thesis/Thesis_7.jpg)
 ![image](assets/img/thesis/Thesis_8.jpg)
 
+##### Toxic Tour 4 Photographic Documentation
+![image](assets/img/thesis/TT4_1.jpeg)
+
+##### Toxic Tour 9 Photographic Documentation
+![image](assets/img/thesis/Collage_TT9.jpeg)
+
 #### Epilogue 
 ![image](assets/img/thesis/Thesis_10.jpg)
 
