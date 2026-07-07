@@ -22,7 +22,7 @@ layout: default
 
  How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
-> [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
+> [<img src="assets/img/thesis/learning arches" alt="Alt Text" width="500" height="300">](page12.md)
 
 ### [Clean Inner City Living Lab](page-1.md)
 
