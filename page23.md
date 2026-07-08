@@ -36,4 +36,8 @@ A workshop-based structural research project culminating in a programmed woven s
 A collective taxonomy of over 100 fabric-formed concrete pieces generated within a shared constraint (an 80×80×20cm wooden frame) and evaluated as a grammar for structural aggregation. The research demonstrates that structural outcome is not determined by boundary conditions alone, but by the internal logic applied to them.
 
 > [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
+>
+> ---
+> 
+> [back](./)
 
