@@ -16,7 +16,7 @@ layout: default
 
 ---
 
-# Structural Diagnosis 
+# [Structural Diagnosis](page21.md)
 
 ### [Clean Inner City Living Lab](page-1.md)
 
@@ -50,7 +50,7 @@ An analysis of collective housing models in Mexico City, examining how shared sp
 
 ---
 
-# Facilitation & Engagement 
+# [Facilitation & Engagement](page22.md) 
 
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
@@ -74,7 +74,7 @@ A year living inside Paris's CLJT social housing model became the foundation for
 
 ---
 
-# Prototyping & Fabrication
+# [Prototyping & Fabrication](page23.md)
 
 ### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
 
