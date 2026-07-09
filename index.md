@@ -16,99 +16,13 @@ layout: default
 
 # [Systems Mapping](page21.md)
 
-### [Clean Inner City Living Lab](page-1.md)
-
-A collaborative field investigation into waste perception and management in De Wallen, Amsterdam. Working with residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
-
-> [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
->
-### [The Ex[cease]tance](page2.md)
-
-A spatial and institutional analysis of burial infrastructure in Amsterdam, examining how urban planning decisions embed cultural hierarchies and remove death from everyday life. The work maps the intersection of religious belief, logistical operations, and colonial inheritance embedded in how cities manage bodies.
-
-> [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
-
-### [Raindrops of Change](page3.md)
-
-A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
-
-> [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
->
-### [Post-Covid19 Urban Dynamics in Mexico City | (1/2)](page4.md)
-
-An alternative housing model for young professionals navigating oversupplied office space and inaccessible permanent housing in one of the world's largest cities. The research identifies where the system has slack and proposes a typology that works within it.
-
-> [<img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">](page4.md)
-
-### [Mexico City: Twelve archeologies of housing at a crossroads](page7.md)
-
-An analysis of collective housing models in Mexico City, examining how shared spaces within residential typologies can function as tools for social change.
-
-> [<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">](page7.md)
-
 ---
 
 # [Facilitation & Engagement](page22.md) 
 
-### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
-
- How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
-
-> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
-
-### [UnmuteCommute](page6.md)
-
-An entrepreneurial venture rethinking public transit as social infrastructure. Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
-
-> [<img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="345" height="215">](page6.md)
-> [<img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
-
-### [CLJT Paris as a Housing Strategy for Mexico City: A year as resident-researcher inside a social housing typology | (2/2)](page5.md)
-
-A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition can be a replicable urban strategy with direct implications for Mexico City.
-
-> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="280">](page5.md)
-
-
 ---
 
 # [Prototyping & Fabrication](page23.md)
-
-### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
-
-Parametric design meets unskilled labour. This project developed a digital definition for a timber structure that allowed multiple configurations to be evaluated with the client, then translated into construction documentation legible to builders without technical training, closing the gap between design intent and built reality.
-
-> [<img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">](page8.md)
-
-### [Materiality & Brand Experience](page14.md)
-
-A material and spatial design project exploring how intangible brand values such as wine heritage, wellness, sensory coherence, are translated into physical systems. An exercise in understanding how technical decisions at the material scale produce measurable outcomes at the experiential scale.
-
-> [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
-
-### [Tensegrity Pavilion | Digital Prototyping & Experimental Research](page9.md)
-
-A non-linear research process integrating digital experimentation and physical prototyping within a tensegrity structural system, developed as a graduation project exploring how structural instability can be harnessed as a spatial and experiential quality.
-
-> [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md) [<img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">](page9.md)
-
-### [Codified Reinterpretation](page10.md)
-
-Chuck Close doesn't paint faces, he executes systems. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
-
-> [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
-
-### [Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding](page16.md)
-
-A workshop-based structural research project culminating in a programmed woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The piece is the result of iterative exploration across shell structures, pneumatic systems, and catenary geometries using henequén fiber, fabric, concrete, and aggregates.
-
-> [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
-
-### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
-
-A collective taxonomy of over 100 fabric-formed concrete pieces generated within a shared constraint (an 80×80×20cm wooden frame) and evaluated as a grammar for structural aggregation. The research demonstrates that structural outcome is not determined by boundary conditions alone, but by the internal logic applied to them.
-
-> [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
 
 ---
 
