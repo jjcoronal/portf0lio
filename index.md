@@ -15,7 +15,7 @@ layout: default
 ---
 
 # [Systems Mapping](page21.md)
-### Research into how systems actually function, where they fail, and where they can be leveraged.
+### Research into how systems actually function, where they fail, and how they can be leveraged.
 
 ---
 
