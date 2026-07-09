@@ -1,7 +1,7 @@
 ---
 layout: default 
 ---
-## Raindrops of Change: 
+## Non-Western Knowledge in Innovation Systems
 ### Decolonial Niche Innovations and Decolonial Transition through the Multi-Level Perspective and Social Innovation
 
 **Introduction**
