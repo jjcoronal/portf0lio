@@ -32,9 +32,8 @@ layout: default
 ---
 
 
-
+<br>
+<br>
+<br>
+<br>
 _Don't forget to click through!_
-<br>
-<br>
-<br>
-<br>
