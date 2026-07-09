@@ -10,7 +10,7 @@ As a result, a fundamentally different product emerged. It was grounded in 11 us
 
 The project illustrates the transition from assumption-driven design to constraint-driven strategy, ending with a validated product ready for deployment at Amsterdam Central Station.
 
-<img src="assets/img/unmutecommute/portada.png" alt="Alt Text" width="400" height="650">
+<img src="assets/img/unmutecommute/portada.png" alt="Alt Text" width="300" height="480">
 
 ### 1: Problem Identification & Pivot
 
