@@ -16,7 +16,7 @@ layout: default
 
 ---
 
-# [Structural Diagnosis](page21.md)
+# [Systems Mapping](page21.md)
 
 ### [Clean Inner City Living Lab](page-1.md)
 
