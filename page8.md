@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Wood Prototyping, Fabrication, & Community Engagement
+### Woodworking, Digital Design, & Community Engagement
 #### Taller Casa-Estudio 
 
 Timber construction in Mexico sits at a difficult intersection: digitally sophisticated design tools on one side, unskilled labor and limited construction literacy on the other. This project worked inside that gap.
