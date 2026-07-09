@@ -5,14 +5,14 @@
 A collaborative field investigation into waste perception and management in De Wallen, Amsterdam. Working with residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
->
-### [Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
+
+### [Making Sense of Death as a Socio-Technical System](page2.md)
 
 A spatial and institutional analysis of burial infrastructure in Amsterdam, examining how urban planning decisions embed cultural hierarchies and remove death from everyday life. The work maps the intersection of religious belief, logistical operations, and colonial inheritance embedded in how cities manage bodies.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
-### [Non-Western Knowledge in Innovation Systems](page3.md)
+### [Non-Western Knowledge as a Framework for Innovation](page3.md)
 
 A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
 
