@@ -13,7 +13,7 @@ A material and spatial design project exploring how intangible brand values such
 
 > [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
 
-### [Tensegrity Pavilion | Digital Prototyping & Experimental Research](page9.md)
+### [Tensegrity Pavilion](page9.md)
 
 A non-linear research process integrating digital experimentation and physical prototyping within a tensegrity structural system, developed as a graduation project exploring how structural instability can be harnessed as a spatial and experiential quality.
 
@@ -25,13 +25,13 @@ Chuck Close doesn't paint faces. This project abstracted the rule-based logic of
 
 > [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
-### [Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding](page16.md)
+### [Knitting Macramé Into a Load-Bearing System](page16.md)
 
 Workshop-based research project culminating in a programmed woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The piece is the result of iterative exploration across shell structures, pneumatic systems, and catenary geometries using macramé techniques, henequén fiber, fabric, concrete, and aggregates.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
 
-### [Exogenous Protocols Endogenous Properties](page15prexpren4.md)
+### [Taxonomy of a Hundred Concrete Pieces in Aggregation](page15prexpren4.md)
 
 A collective taxonomy of over 100 fabric-formed concrete pieces generated within a shared constraint (an 80×80×20cm wooden frame) and evaluated as a grammar for structural aggregation. The research demonstrates that structural outcome is not determined by boundary conditions alone, but by the internal logic applied to them.
 
