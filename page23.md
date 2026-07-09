@@ -19,7 +19,7 @@ A non-linear research process integrating digital experimentation and physical p
 
 > [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md) [<img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">](page9.md)
 
-### [Codified Reinterpretation](page10.md)
+### [Coding a Painter's Logic](page10.md)
 
 Chuck Close doesn't paint faces. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
 
