@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Codified Reinterpretation
+## Coding a Painter's Logic
 ###### _Design with Python_
 
-The development of this project involved a way of thinking that differs from that of our language; The structure and breakdown of this program was adapted to a grammar and syntax different from what we know.
+The development of this project involved a way of thinking that differs from that of our language; the structure and breakdown of this program was adapted to a grammar and syntax different from what we know. 
 
 ###### Complete workflow
 
