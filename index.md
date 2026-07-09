@@ -34,7 +34,7 @@ layout: default
 # [Other](page24.md)
 ### Unclassified work that has shapen the previous categories.
 
-[<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="500" height="300">]
+[<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">]
 
 <br>
 <br>
