@@ -24,13 +24,13 @@ layout: default
 
 
 # [Prototyping & Fabrication](page23.md)
-### Projects where I used building, making, and material testing as a research method. Testing whether ideas work through intuitive experimentation combined with quantitative analysis. Bridging parametric logic, structural behavior, and real-world constraint.
+### Projects where concepts are tested for scalability. Using material testing and hands-on experimentation as research method, I combined intuitive exploration with quantitative rigor to understand how real-world constraints shape what's actually feasible to implement, afford, and scale.
 
 > <img src="assets/img/page16/42.gif" width="500" height="300" />
 
 
 # [Other](page24.md)
-### Unclassified work that shaped my approach: organizing communities, building alongside people, making for its own sake.
+### Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community builds, and personal exploration that shaped my approach.
 
 > <img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">
 
