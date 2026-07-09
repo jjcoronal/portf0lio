@@ -15,12 +15,12 @@ layout: default
 ---
 
 # [Systems Mapping](page21.md)
-### Research into how systems actually function, and where they fail.
+### Research into how systems actually function, where they fail, and where they can be leveraged.
 
 ---
 
 # [Facilitation & Engagement](page22.md) 
-### Co-creations, workshops, and processes that bring stakeholders into the redesign.
+### Co-creations, workshops, and processes that bring stakeholders into the design and development of shared solutions.
 ---
 
 # [Prototyping & Fabrication](page23.md)
@@ -33,4 +33,6 @@ layout: default
 
 
 
-_Thanks for stopping by! I'm always open to new ideas, and good conversations_
+_Don't forget to click through!_
+<br> 
+_Thanks for scrolling by_
