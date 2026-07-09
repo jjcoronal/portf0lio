@@ -1,4 +1,4 @@
-##Other
+## [Other](page24.md)
 
 _These projects sit outside the three scales mentioned before, but they're where a lot of my instincts came from: organizing people around a shared event, building something with your hands alongside a community, and making art with no client and no brief_
 
