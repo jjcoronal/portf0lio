@@ -1,8 +1,8 @@
 ---
 layout: default 
 ---
-## Non-Western Knowledge in Innovation Systems
-### Decolonial Niche Innovations and Decolonial Transition through the Multi-Level Perspective and Social Innovation
+## Non-Western Knowledge as a Framework for Innovation
+###### Project: Decolonial Niche Innovations and Decolonial Transition through the Multi-Level Perspective and Social Innovation
 
 **Introduction**
 
