@@ -33,7 +33,7 @@ By redefining "disruption" as an opportunity for human connection rather than a 
 
 Through iterative Mom-Test interviews and rapid prototyping, the team learned that casual interactions matter as much as meaningful conversations, and that a discrete, easy-to-wear identifier could lower the threshold for strangers to connect. A token was developed as the Minimum Viable Product (MVP) in order to put the idea into action. 
 
-![image](assets/img/unmutecommute/iteration1.png)![image](assets/img/unmutecommute/iteration2.png)
+![image](assets/img/unmutecommute/iteration1.png)![image](assets/img/unmutecommute/iteration2.png)![image](assets/img/unmutecommute/testcards.png)
 
 
 ### 4: Market Strategy & Implementation
@@ -54,6 +54,7 @@ GIS analysis identified Amsterdam Central Station as the optimal launch location
 The project roadmap extends from an MVP launch at Central Station toward a broader "Unmute Daily Life" platform that applies the same connection-enabling principles across multiple life contexts.
 
 ![image](assets/img/unmutecommute/Layout_scenefinal.png)
+![image](assets/img/unmutecommute/bmcs.png)
 
 
 > <img src="assets/img/unmutecommute/Assumptions-02.png" alt="Alt Text" width="300" height="200">
