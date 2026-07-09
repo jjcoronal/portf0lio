@@ -22,7 +22,7 @@ layout: default
 # [Facilitation & Engagement](page22.md) 
 ### Co-creations, workshops, and processes that bring stakeholders into the design and development of shared solutions.
 
-> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">]
+> <img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">
 
 
 # [Prototyping & Fabrication](page23.md)
@@ -34,7 +34,7 @@ layout: default
 # [Other](page24.md)
 ### Unclassified work that has shapen the previous categories.
 
-[<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">]
+> <img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">
 
 <br>
 <br>
