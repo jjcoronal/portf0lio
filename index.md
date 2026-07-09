@@ -17,7 +17,7 @@ layout: default
 # [Systems Mapping](page21.md)
 ### Research into how systems actually function, where they fail, and how they can be leveraged.
 
-<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe> 
+<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="500" height="400" frameborder="0"></iframe> 
 
 # [Facilitation & Engagement](page22.md) 
 ### Co-creations, workshops, and processes that bring stakeholders into the design and development of shared solutions.
@@ -28,7 +28,7 @@ layout: default
 # [Prototyping & Fabrication](page23.md)
 ### Physical and digital prototypes that test how an idea can be implemented and whether if it holds up.
 
-> [<img src="assets/img/page16/42.gif" width="500" height="300" />]
+> <img src="assets/img/page16/42.gif" width="500" height="300" />
 
 
 # [Other](page24.md)
