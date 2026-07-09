@@ -34,5 +34,7 @@ layout: default
 
 
 _Don't forget to click through!_
-<br> 
-_Thanks for scrolling by_
+<br>
+<br>
+<br>
+<br>
