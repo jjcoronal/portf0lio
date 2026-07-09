@@ -15,19 +15,20 @@ layout: default
 ---
 
 # [Systems Mapping](page21.md)
+### Research into how systems actually function, and where they fail.
 
 ---
 
 # [Facilitation & Engagement](page22.md) 
-
+### Co-creations, workshops, and processes that bring stakeholders into the redesign.
 ---
 
 # [Prototyping & Fabrication](page23.md)
-
+### Physical and digital prototypes that test how an idea can be implemented and whether if it holds up.
 ---
 
 # [Other](page24.md)
-
+### Unclassified work that has shapen the previous categories.
 ---
 
 
