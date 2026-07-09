@@ -10,7 +10,7 @@ As a result, a fundamentally different product emerged. It was grounded in 11 us
 
 The project illustrates the transition from assumption-driven design to constraint-driven strategy, ending with a validated product ready for deployment at Amsterdam Central Station.
 
-![image](assets/img/unmutecommute/prototypenew.png)
+![image](assets/img/unmutecommute/portada.png)
 
 ### 1: Problem Identification & Pivot
 
@@ -31,7 +31,7 @@ By redefining "disruption" as an opportunity for human connection rather than a 
 
 ### 3: Product Iteration & Validation
 
-Through iterative Mom-Test interviews and rapid prototyping, the team learned that casual interactions matter as much as meaningful conversations, and that a discrete, easy-to-wear identifier could lower the threshold for strangers to connect. A token was developed as the Minimum Viable Product (MVP) in order to put the idea into action. 
+Through iterative Mom-Test interviews and rapid prototyping, the team learned that casual interactions matter as much as meaningful conversations, and that a discrete, easy-to-wear identifier could lower the threshold for strangers to connect. 
 
 ![image](assets/img/unmutecommute/iteration1.png)![image](assets/img/unmutecommute/iteration2.png)![image](assets/img/unmutecommute/testcards.png)
 
@@ -39,6 +39,10 @@ Through iterative Mom-Test interviews and rapid prototyping, the team learned th
 ### 4: Market Strategy & Implementation
 
 #### Token (MVP)
+A token was developed as the Minimum Viable Product (MVP) in order to put the idea into action. 
+
+![image](assets/img/unmutecommute/prototypenew.png)
+
 The development og the MVP sparked hinderances during the user journey. Consequently, an [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) was developed as an digital complement of the MVP to unmute people's commute.
 
 ![image](assets/img/unmutecommute/web_1.png)
@@ -55,11 +59,6 @@ The project roadmap extends from an MVP launch at Central Station toward a broad
 
 ![image](assets/img/unmutecommute/Layout_scenefinal.png)
 ![image](assets/img/unmutecommute/bmcs.png)
-
-
-> <img src="assets/img/unmutecommute/Assumptions-02.png" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/unmutecommute/VPC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/unmutecommute/BMC_Report_Intervened.png" alt="Alt Text" width="300" height="200">
 
 
 [back](./)
