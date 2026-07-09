@@ -20,9 +20,6 @@ Initial research on travel disruptions for cyclists revealed flawed assumptions,
  <img src="assets/img/unmutecommute/why.png" alt="Alt Text" width="400" height="280">
 
 
-![image]()
-![image]()
-
 ### 2: Reframing as Opportunity
 
 By redefining "disruption" as an opportunity for human connection rather than a problem to solve, the team shifted from addressing citizen agency to building community through conversation. This highlighted how the monotony of commutes, not chaos, was the actual problem worth solving.
