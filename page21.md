@@ -6,7 +6,7 @@ A collaborative field investigation into waste perception and management in De W
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 >
-### [The Politics of Burial Infrastructure](page2.md)
+### [Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
 
 A spatial and institutional analysis of burial infrastructure in Amsterdam, examining how urban planning decisions embed cultural hierarchies and remove death from everyday life. The work maps the intersection of religious belief, logistical operations, and colonial inheritance embedded in how cities manage bodies.
 
