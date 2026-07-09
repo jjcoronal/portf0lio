@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Reevaluating Death-Related Institutions in the Dutch Context
+## Making Sense of Death as a Socio-Technical System
+
+###### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
 
 A spatial and systems analysis of how urban planning decisions have systematically removed death-related institutions from daily life, making structural patterns visible that inform policy discussions on inclusive urban infrastructure.
 
