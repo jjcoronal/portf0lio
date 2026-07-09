@@ -16,8 +16,8 @@ The project illustrates the transition from assumption-driven design to constrai
 
 Initial research on travel disruptions for cyclists revealed flawed assumptions, forcing a fundamental rethinking of both the problem and the solution. Ovreall, interviews showed that Amsterdam cyclists rarely face meaningful disruptions, shifting focus from a logistics problem to a social one.
 
-![image](assets/img/unmutecommute/tabla.png)![image](assets/img/unmutecommute/why.png)
-
+![image](assets/img/unmutecommute/tabla.png)
+![image](assets/img/unmutecommute/why.png)
 ![image](assets/img/unmutecommute/pivotaway.png)
 
 
