@@ -15,21 +15,9 @@ Through close-up, Chuck Close doesn't paint faces. This project abstracted the r
 
 ### [Knitting Macramé Into a Load-Bearing System](page16.md)
 
-Workshop-based research project culminating in a programmed woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The piece is the result of iterative exploration across shell structures, pneumatic systems, and catenary geometries using macramé techniques, henequén fiber, fabric, concrete, and aggregates.
+A workshop-based structural research project testing whether textile techniques could perform structurally under load. Iterative exploration across shell structures, pneumatic systems, and catenary geometries using henequén fiber, fabric, concrete, and aggregates revealed that conventional material and method hierarchies could be challenged. It culminated in a woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The testing demonstrated that structural capacity emerges from logic and configuration, not from material type alone.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
-
-### [Materiality & Brand Experience](page14.md)
-
-Design project that explores how intangible brand values such as wine heritage, wellness, sensory coherence, are broought into the physical world.
-
-> [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
-
-### [Tensegrity Pavilion](page9.md)
-
-A non-linear research process integrating digital experimentation and physical prototyping within a tensegrity structural system. Conceptually, it explores how structural instability can be harnessed as a spatial and experiential quality. This is later on extensively developped into detail in order to be built and installed in the physical world.
-
-> [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md) [<img src="assets/img/tensegrity/016e67b34e96eca448baf6b35fff75f04964d117b9.jpg" alt="Alt Text" width="300" height="200">](page9.md)
 
 ### [Taxonomy of a Hundred Concrete Pieces in Aggregation](page15prexpren4.md)
 
