@@ -4,11 +4,8 @@ layout: default
 
 ## About me
 
-> _I'm a transdisciplinary professional working at the intersection of urban innovation, environmental governance, and systemic design. My background spans Europe and Latin America, where I've developed expertise in translating between research, design, and policy to unlock sustainable transitions._
->
-> _I solve complex problems by understanding real constraints and identifying where leverage exists in a system. Rather than applying generic solutions, I design, implement, and measure interventions that work within actual governance structures and stakeholder dynamics._
->
-> _My work across México, France, and the Netherlands has taught me that systemic change happens when you see problems at multiple scales simultaneously and create conditions for different actors to collaborate. I'm driven by the challenge of turning complex sustainability and governance problems into tangible, measurable outcomes._
+> _I like to think about the broad systems in the world and understand how they impact us as different scales. Through visual frameworks, participatory methods, and facilitation I’m looking to help organizations turn scattered information into narratives that can enact new world dynamics._
+
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
