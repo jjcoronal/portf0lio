@@ -2,11 +2,11 @@
 
 ### [Toxic Tours in Amsterdam's Red Light District](page12.md)
 
-How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
+How do you mobilise diverse groups around complex, uncomfortable urban challenges? This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
 
-### [UnmuteCommute](page6.md)
+### [UnmuteCommute: Designing Social Infrastructure for Commuters](page6.md)
 
 An entrepreneurial venture rethinking public transit as social infrastructure. Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
 
