@@ -1,8 +1,8 @@
 # [Facilitation & Engagement](page22.md) 
 
-### [Toxic Tours in De Wallen](page12.md)
+### [Toxic Tours in Amsterdam's Red Light District](page12.md)
 
- How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
+How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
 
