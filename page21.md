@@ -24,7 +24,7 @@ An alternative housing model for young professionals navigating oversupplied off
 
 > [<img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">](page4.md)
 
-### [Housing Typologies in Mexico City](page7.md)
+### [Collective Housing Typologies in Mexico City](page7.md)
 
 An analysis of collective housing models in Mexico City, examining how shared spaces within residential typologies can function as tools for social change.
 
