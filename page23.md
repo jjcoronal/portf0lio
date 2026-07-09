@@ -1,7 +1,7 @@
 
 # [Prototyping & Fabrication](page23.md)
 
-### [Wood Prototyping, Fabrication, & Community Engagement](page8.md)
+### [Woodworking, Digital Design, & Community Engagement](page8.md)
 
 Parametric design meets unskilled labour. This project developed a digital definition for a timber structure that allowed multiple configurations to be evaluated with the client, then translated into construction documentation legible to builders without technical training, closing the gap between design intent and built reality.
 
@@ -21,13 +21,13 @@ A non-linear research process integrating digital experimentation and physical p
 
 ### [Codified Reinterpretation](page10.md)
 
-Chuck Close doesn't paint faces, he executes systems. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
+Chuck Close doesn't paint faces. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
 
 > [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
 ### [Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding](page16.md)
 
-A workshop-based structural research project culminating in a programmed woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The piece is the result of iterative exploration across shell structures, pneumatic systems, and catenary geometries using henequén fiber, fabric, concrete, and aggregates.
+Workshop-based research project culminating in a programmed woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The piece is the result of iterative exploration across shell structures, pneumatic systems, and catenary geometries using macramé techniques, henequén fiber, fabric, concrete, and aggregates.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
 
