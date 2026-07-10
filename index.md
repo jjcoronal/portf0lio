@@ -13,18 +13,18 @@ layout: default
 ---
 
 # [Systems Mapping](page21.md)
-### Projects where I diagnosed how a complex system actually works, identified patterns and constraints, and translated findings into visual frameworks that enable decision-making and strategic alignment.
+### Projects where I diagnosed how a complex system works in reality, identified patterns and constraints, and translated findings into visual frameworks that enable decision-making and strategic alignment.
 
 <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="500" height="400" frameborder="0"></iframe> 
 
 # [Facilitation & Engagement](page22.md) 
-### Projects where I designed processes and experiences that bring diverse stakeholders together to develop shared understanding and co-create solutions.
+### Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create solutions.
 
 > <img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">
 
 
 # [Prototyping & Fabrication](page23.md)
-### Projects where concepts are tested for scalability. Using material testing and hands-on experimentation as research method, I combined intuitive exploration with quantitative rigor to understand how real-world constraints shape what's actually feasible to implement, afford, and scale.
+### Projects where concepts are tested for scalability. Using material testing and hands-on experimentation as research method, intuitive exploration with quantitative rigor were combined to understand how real-world constraints shape what's actually feasible to implement, afford, and scale.
 
 > <img src="assets/img/page16/42.gif" width="500" height="300" />
 
