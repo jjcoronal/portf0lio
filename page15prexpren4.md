@@ -7,6 +7,8 @@ layout: default
 
 _A workshop-based research project exploring structural and spatial possibilities within a shared constraint: a wooden frame, 80 × 80 × 20 cm, fabric stretched inside, concrete poured in. Each participant worked within identical boundaries to generate a distinct piece. The collective output mapped over 100 variations across four structural families, documented in a shared taxonomy built from individual iteration._
 
+The iterative testing process produced a working taxonomy of variables (intention, emptying, curvature, setting time, tension/compression/gravity) for evaluating fabric-formed concrete, rather than a single final design.
+
 ###### Filogenetic Tree
 
 <img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="600" height="400">
