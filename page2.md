@@ -8,7 +8,9 @@ layout: default
 
 A spatial and systems analysis of how urban planning decisions have systematically removed death-related institutions from daily life, making structural patterns visible that inform policy discussions on inclusive urban infrastructure.
 
-As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities
+The project's framework has since been cited by other TU Delft students and was presented at the workshop “Persistence of Sacred Space” held at TU Delft. Furthermore it surfaced possible directions for startup ventures in this space.
+
+As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities, furthermore it was cited by other TU Delft students
 
 > <img src="assets/img/exceasetance/visualizing-amsterdams-diverse-migrational-backgrounds.jpg" alt="Alt Text" width="400" height="400">
 
