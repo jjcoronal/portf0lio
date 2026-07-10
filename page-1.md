@@ -7,7 +7,8 @@ layout: default
 
 ##### Introduction 
 
-A participatory systems map built from waste perception and management in Amsterdam's Red Light District. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system really operates on the street, bridging the gap between designed infrastructure and lived reality. It was later on used to craft, along with researchers and municipality, the strategy for research interventions in the site.
+
+A Living Lab approach was used that emphasizes collaboration with local stakeholders. By focusing on residents and workers who directly interact with waste daily, the project sought to understand how systemic issues contribute to the problem of trash in Amsterdam’s Red Light District. As a result, a participatory systems map was built from waste perception and its management in Amsterdam's Red Light District. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system really operates on the street, bridging the gap between designed infrastructure and lived reality. It was later on used to craft, along with researchers and municipality, the strategy for research interventions in the site.
 
 ##### Documentary
 
