@@ -5,7 +5,7 @@ layout: default
 ## Picking Up the Red-Light District:
 ### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
-A research methodology designed as an embodied sensemaking process. The work went about nine critical walking tours at dawn through Amsterdam's Red-Light District. These were structured across three co-creation phases, using tourism as both the medium and the object of inquiry. The research produced five recurring patterns of learning showing how playfulness, real-time reflection, and iterative design unlock systemic understanding in ways that traditional research rarely achieves.
+A research methodology designed as an embodied sensemaking process. The project consisted of nine critical walking tours at dawn through Amsterdam's Red-Light District, involving 28 participants in total. These were structured across three co-creation phases, using tourism as both the medium and the object of inquiry. The research produced five recurring patterns of learning showing how playfulness, real-time reflection, and iterative design unlock systemic understanding in ways that traditional research rarely achieves.
 
 #### Cover
 <img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
