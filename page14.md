@@ -3,6 +3,8 @@
 
 Design translates intangible values into material decisions. This project examined how a specific set of values (french wine heritage, wellness, craft) could be made physically present through spatial and material choices.
 
+I contributed to schematic design, design development, and construction documentation for Caudalie's Bordeaux site. This work that was later expanded to multiple additional Caudalie stores across France under the firm's name.
+
 > <img src="assets/img/caudalie/Mood.png" alt="Alt Text" width="300" height="200">
 
 > <img src="assets/img/caudalie/Mood1.png" alt="Alt Text" width="300" height="200">
