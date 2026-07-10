@@ -7,7 +7,7 @@ layout: default
 
 ##### Introduction 
 
-A participatory systems map built from waste perception and management in De Wallen, Amsterdam. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system really operates on the street, bridging the gap between designed infrastructure and lived reality.
+A participatory systems map built from waste perception and management in Amsterdam's Red Light District. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system really operates on the street, bridging the gap between designed infrastructure and lived reality. It was later on used to craft, along with researchers and municipality, the strategy for research interventions in the site.
 
 ##### Documentary
 
