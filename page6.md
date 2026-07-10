@@ -3,12 +3,11 @@ layout: default
 ---
 
 # UnmuteCommute: Designing Social Infrastructure for Commuters
+###### The project was developed in collaboration with four teammates.
 
-A four-week entrepreneurial sprint that demonstrates how constraint-based iteration refines problem definition. Initial user research disproved the core assumption (travel disruptions as a problem for cyclists), forcing a methodological pivot: redefine the constraint, rebuild the hypothesis, and validate through rapid prototyping. 
+A six-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing team members to pivot by reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumptions into a strategy driven by insights. The sprint ended with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
 
-As a result, a fundamentally different product emerged. It was grounded in 11 user interviews, iterative feedback loops, and GIS-informed market selection. 
-
-The project illustrates the transition from assumption-driven design to constraint-driven strategy, ending with a validated product ready for deployment at Amsterdam Central Station.
+The project was validated through 11 user interviews, which supported the pivot from an alert system to a human-centered intervention. Not deployed beyond this validation stage.
 
 <img src="assets/img/unmutecommute/portada.png" alt="Alt Text" width="300" height="480">
 
