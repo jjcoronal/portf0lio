@@ -9,7 +9,9 @@ layout: default
 
 Tensegrity structures hold themselves together through a precise balance of continuous tension and discontinuous compression. There is no redundancy as every element is load-bearing and every connection is critical. This makes them structurally efficient and inherently unstable.
 
-This graduation project used tensegrity as both a structural system and a research framework. Working non-linearly between digital simulation and physical prototyping, the investigation mapped how variations in geometry, material, and connection logic produced radically different structural behaviours. Each prototype was not a failed or successful attempt — it was data.
+This graduation project used tensegrity as both a structural system and a research framework. Working non-linearly between digital simulation and physical prototyping, the investigation mapped how variations in geometry, material, and connection logic produced radically different structural behaviours. 
+
+The work was presented as the titulation project for the degree of Architect at Universidad Iberoamericana, achieving a grade of 10/10.
 
 ![image](assets/img/tensegrity/Concepto.png)
 
