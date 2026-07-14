@@ -24,13 +24,13 @@ layout: default
 
 
 # [Prototyping & Fabrication](page23.md)
-### Projects where concepts are tested for scalability. Using material testing and hands-on experimentation as research method, intuitive exploration with quantitative rigor were combined to understand how real-world constraints shape what's actually feasible to implement, afford, and scale.
+### Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation are used to identify their scalability.
 
 > <img src="assets/img/page16/42.gif" width="500" height="300" />
 
 
 # [Other](page24.md)
-### Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community builds, and personal exploration that shaped my approach.
+### Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community builds, and art for the sake of it.
 
 > <img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">
 
