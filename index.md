@@ -4,7 +4,10 @@ layout: default
 
 ## About me
 
-> _I help organizations make sense of complexity and design better ways of working together, working across systems thinking, facilitation, and strategic design. I move from diagnosis, understanding a problem as a system; to engagement, designing collective processes; to implementation, building and testing solutions._
+> _I help organizations make sense of complexity and design better ways of working together, working across systems thinking, facilitation, and strategic design._
+> _I move from: diagnosis, understanding a problem as a system;_
+> _to engagement, designing collective processes;_
+> _to implementation, building and testing solutions._
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
