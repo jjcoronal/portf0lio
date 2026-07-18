@@ -17,7 +17,7 @@ A spatial and institutional analysis of burial infrastructure in Amsterdam, exam
 A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
 
 > [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
->
+
 ### [Post-Covid19 Housing Dynamics in Mexico City](page4.md)
 
 An alternative housing model for young professionals navigating oversupplied office space and inaccessible permanent housing in one of the world's largest cities. The research identifies where the system has slack and proposes a typology that works within it.
