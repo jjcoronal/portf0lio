@@ -17,24 +17,24 @@ layout: default
 ---
 
 # [Systems Mapping](page21.md)
-### [Projects where I diagnosed how a complex system works, identified patterns and constraints, and translated findings into visuals that enable decision-making and strategic alignment.](page21.md)
+Projects where I diagnosed how a complex system works, identified patterns and constraints, and translated findings into visuals that enable decision-making and strategic alignment.
 
-[<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="500" height="400" frameborder="0"></iframe>](page21.md)
+<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="500" height="400" frameborder="0"></iframe>
 
 # [Facilitation & Engagement](page22.md) 
-### [Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create solutions.](page22.md)
+Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create solutions.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page22.md)
 
 
 # [Prototyping & Fabrication](page23.md)
-### [Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation are used to identify their scalability.](page23.md)
+Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation are used to identify their scalability.
 
 > [<img src="assets/img/page16/42.gif" width="500" height="300" />](page23.md)
 
 
 # [Other](page24.md)
-### [Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community builds, and art for the sake of it.](page24.md)
+Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community builds, and art for the sake of it.
 
 > [<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="420" height="300">](page24.md)
 
