@@ -20,7 +20,7 @@ layout: default
 # [Systems Mapping](page21.md)
 Projects where I diagnosed how a complex system works, identified patterns and constraints, and translated findings into visuals that enable decision-making and strategic alignment.
 
-<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="300" height="200" frameborder="0"></iframe>
+<iframe src="https://jjcoronal.kumu.io/system-map-tool" width="342" height="192" frameborder="0"></iframe>
 
 # [Facilitation & Engagement](page22.md) 
 Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create solutions.
