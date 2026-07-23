@@ -1,7 +1,7 @@
 
-### Concept to Implementation: Designing Sensory Systems for Experiential Outcomes
+### 
 
-Design translates intangible values into material decisions. This project examined how a specific set of values (french wine heritage, wellness, craft) could be made physically present through spatial and material choices.
+This project examined how a specific set of values (french wine heritage, wellness, craft) could be made physically present through spatial and material choices.
 
 I contributed to schematic design, design development, and construction documentation for Caudalie's Bordeaux site. This work that was later expanded to multiple additional Caudalie stores across France under the firm's name.
 
