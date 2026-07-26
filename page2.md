@@ -4,13 +4,15 @@ layout: default
 
 ## Making Sense of Death as a Socio-Technical System
 
-##### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
+#### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
 
 ###### See also: [Non-Western Knowledge as a Framework for Innovation](page3.md)
 
-A spatial and systems analysis of how urban planning decisions have systematically removed death-related institutions from daily life, making structural patterns visible that inform policy discussions on inclusive urban infrastructure.
+**The systems analysis reveals a structural gap: cities are being asked to accommodate a cultural shift toward ecological death practices, but institutional frameworks, spatial planning decisions, and logistical infrastructure were built for a different cosmology entirely. Redesigning those systems is both a sustainability challenge and a governance design problem.**
 
-The project's framework has since been cited by other TU Delft students and was presented at the workshop “Persistence of Sacred Space” held at TU Delft. Furthermore it surfaced possible directions for startup ventures in this space.
+**The project's framework has since been cited by other TU Delft students and was presented at the workshop “Persistence of Sacred Space” held at TU Delft. Furthermore it surfaced possible directions for startup ventures in this space.**
+
+<br>
 
 As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities, furthermore it was cited by other TU Delft students
 
@@ -30,8 +32,5 @@ A flow diagram mapping out the death and burial industry reveals how the process
 
 ![image](assets/img/exceasetance/Fig2_JJCL.png)
 
-The systems analysis reveals a structural gap: cities are being asked to accommodate a cultural shift toward ecological death practices, but institutional frameworks, spatial planning decisions, and logistical infrastructure were built for a different cosmology entirely. Redesigning those systems is both a sustainability challenge and a governance design problem.
-
-[Full essay available upon request]
 
 [back](./)
