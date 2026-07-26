@@ -3,8 +3,8 @@ layout: default
 ---
 
 ### Tensegrity Pavilion 
-#### Digital Prototyping & Experimental Research
-##### The work was presented as the titulation project for the degree of Architect at Universidad Iberoamericana, achieving a grade of 10/10.
+#### Digital prototyping & analogue experimental research
+##### Graduation thesis project, Universidad Iberoamericana. Awarded top marks (10/10)
 
 ###### See also: [Knitting macramé into a load-bearing system](page16.md), [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md), [Coding a painter's logic](page10.md)
 
