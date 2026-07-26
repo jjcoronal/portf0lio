@@ -5,6 +5,8 @@ layout: default
 ## Exogenous Protocols, Endogenous Properties
 ### Fabric formwork, collective constraint, and the structural logic of poured concrete
 
+###### See also: [Knitting macramé into a load-bearing system](page16.md), [Tensegrity pavilion (graduation project)](page9.md)
+
 _A workshop-based research project exploring structural and spatial possibilities within a shared constraint: a wooden frame, 80 × 80 × 20 cm, fabric stretched inside, concrete poured in. Each participant worked within identical boundaries to generate a distinct piece. The collective output mapped over 100 variations across four structural families, documented in a shared taxonomy built from individual iteration._
 
 The iterative testing process produced a working taxonomy of variables (intention, emptying, curvature, setting time, tension/compression/gravity) for evaluating fabric-formed concrete, rather than a single final design.
