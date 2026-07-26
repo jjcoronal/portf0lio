@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## Coding a Painter's Logic
-###### _Design with Python_
+##### _Design with Python_
+
+###### See also: [Knitting macramé into a load-bearing system](page16.md), [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md), [Tensegrity pavilion (graduation project)](page9.md)
 
 The development of this project involved a way of thinking that differs from that of our language; the structure and breakdown of this program was adapted to a grammar and syntax different from what we know. 
 
