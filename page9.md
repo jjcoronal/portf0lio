@@ -4,7 +4,9 @@ layout: default
 
 ### Tensegrity Pavilion 
 #### Digital Prototyping & Experimental Research
-###### The work was presented as the titulation project for the degree of Architect at Universidad Iberoamericana, achieving a grade of 10/10.
+##### The work was presented as the titulation project for the degree of Architect at Universidad Iberoamericana, achieving a grade of 10/10.
+
+###### See also: [Knitting macramé into a load-bearing system](page16.md), [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md)
 
 Tensegrity structures hold themselves together through a precise balance of continuous tension and discontinuous compression. There is no redundancy as every element is load-bearing and every connection is critical. This makes them structurally efficient and inherently unstable.
 
