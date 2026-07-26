@@ -1,4 +1,4 @@
-## Post-Covid19 Housing Dynamics in Mexico City | (1/2)
+## Post-Covid19 Housing Dynamics in Mexico City
 ###### _Personal project_
 
 By leveraging mixed-use zoning regulations in areas adjacent to the city’s economic corridors, the study proposes retrofitting underutilized office spaces into compact, habitable units.
@@ -12,5 +12,9 @@ This approach not only repurposes vacant real estate but also redefines accessib
 Specifically, it addresses the needs of individuals who commute from the periphery but seek a short-term residence in the city center during their in-office workdays.
 
 ![image](assets/img/proyectoGIS/230601_PF_Zambrano_13.jpg)
+
+See also:
+[What Paris Housing Can Teach Mexico City](page5.md)
+[Collective Housing Typologies in Mexico City](page7.md)
 
 [back](./)
