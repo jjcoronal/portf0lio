@@ -1,7 +1,7 @@
 
 ## Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding
 
-###### See also: [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md), [Tensegrity pavilion (graduation project)](page9.md), [Coding a painter's logic](page10)
+###### See also: [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md), [Tensegrity pavilion (graduation project)](page9.md), [Coding a painter's logic](page10.md)
 
 ### **The result of this prject culminated in a 15kg woven structure that passed a load test of over 500kg.**
 
