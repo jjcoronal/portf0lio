@@ -1,7 +1,7 @@
 ## Post-Covid19 Housing Dynamics in Mexico City
 ###### _Personal project_
 
-See also: [What Paris Housing Can Teach Mexico City](page5.md), [Collective Housing Typologies in Mexico City](page7.md)
+###### See also: [What Paris Housing Can Teach Mexico City](page5.md), [Collective Housing Typologies in Mexico City](page7.md)
 
 
 By leveraging mixed-use zoning regulations in areas adjacent to the city’s economic corridors, the study proposes retrofitting underutilized office spaces into compact, habitable units.
