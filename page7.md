@@ -6,6 +6,12 @@ layout: default
 
 #### Project: "Mexico City: Twelve archeologies of housing at a crossroads", Tatiana Bilbao Estudio 
 
+See also:
+
+[What Paris Housing Can Teach Mexico City](page5.md)
+
+[Post-Covid19 Housing Dynamics in Mexico City](page4.md)
+
 The main objective is to explore how architecture and the design of collective spaces can foster more equitable and sustainable social relationships, free from the commercialization and legal control that typically govern urban life. The study aims to demonstrate that these spaces can serve as platforms to redefine coexistence and challenge traditional social and economic structures, promoting fairer and more accessible housing models that integrate community and environmental needs.
 
 ###### Case Study Overview & Evaluation
