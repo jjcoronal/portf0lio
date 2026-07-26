@@ -1,6 +1,8 @@
 
 ### 
 
+###### See also: [Woodworking, Digital Design, & Community Engagement](page8.md)
+
 This project examined how a specific set of values (french wine heritage, wellness, craft) could be made physically present through spatial and material choices.
 
 I contributed to schematic design, design development, and construction documentation for Caudalie's Bordeaux site. This work that was later expanded to multiple additional Caudalie stores across France under the firm's name.
