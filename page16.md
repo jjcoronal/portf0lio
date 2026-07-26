@@ -1,6 +1,9 @@
 
 ## Macramé Catenary Structures Under Tension: Analogue Fabrication and Digital Form-Finding
-### **The research culminated in a 15kg woven structure that passed a load test of over 500kg.**
+
+###### See also: [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md), [Tensegrity pavilion (graduation project)](page9.md)
+
+### **The result of this prject culminated in a 15kg woven structure that passed a load test of over 500kg.**
 
 The research aimed to examine the behavior of selected structural typologies. The process began with double-curvature surfaces formed by shell structures, specifically self-supporting modular assemblies. Analysis of these forms, with the goal of achieving greater structural efficiency, opened further lines of inquiry: perforated structures and pneumatic structures. 
 
