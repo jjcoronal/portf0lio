@@ -4,7 +4,9 @@ layout: default
 
 ## Making Sense of Death as a Socio-Technical System
 
-###### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
+##### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
+
+###### See also: [Non-Western Knowledge as a Framework for Innovation](page3.md)
 
 A spatial and systems analysis of how urban planning decisions have systematically removed death-related institutions from daily life, making structural patterns visible that inform policy discussions on inclusive urban infrastructure.
 
