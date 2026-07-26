@@ -6,12 +6,7 @@ layout: default
 
 ###### See also: [Making Sense of Death as a Socio-Technical System](page2.md)
 
-**Introduction**
-
-Arturo Escobar (2018) argues that the rationalistic tradition shapes Western institutions and reinforces ontological dualism, which separates the natural and social worlds. This worldview, known as the One-World World (OWW), prioritizes the individual, science, the economy, and the real, privileging certain ways of knowing while marginalizing others. As a result, human perception of reality is predetermined by Eurocentric norms.
-
-Escobar sees this as a consequence of Eurocentric ontological design, where Western thought dominates alternative cosmologies. To challenge this, he advocates for embracing the Pluriverse—a world where multiple ways of knowing and being coexist. Liberating design from Western constraints would allow for more inclusive approaches that reflect diverse cultural and epistemic contexts.
-
+**Dominant Western institutions are built on a single way of understanding reality, one that treats science, the market, and the individual as the only valid frame. That default gets built into infrastructure and policy without anyone deciding it that way. This concept map traces what happens when other ways of knowing are allowed to shape innovation instead of being filtered out by it.**
 
 **Concept Map**
 
@@ -24,8 +19,6 @@ Escobar sees this as a consequence of Eurocentric ontological design, where West
 > The process undergone by Decolonial Niche Innovations as seen in relation with the Multi-Level Perspective (MLP) of Geels (2002), is surrounded by more steps, barriers and intricacies that, only like raindrops, manage to _fall_ from the realm of the ideas; _leak_ through the cracks of the system, and _populate_ the regime. 
 
 > Taking on the model of MLP by Geels, arrows are used to show the permeability and magnitude of the genesis and impact of DNI within the overall system. Under the MLP perspective, the hegemony of the One-World World regime is contested and influenced on a systematic level incorporating DNI and then creating Decolonial Transformations.
-
-[Full essay available upon request]
 
 
 **References**
