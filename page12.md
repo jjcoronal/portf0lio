@@ -10,16 +10,16 @@ A research methodology designed as an embodied sensemaking process. The project 
 #### Cover
 <img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
 
-#### Prologue
+#### Motivation
 
 ![image](assets/img/thesis/Thesis_3.jpg)
 
-#### Problem contextualization
+#### Problem
 The following section situates the intervention within Amsterdam's Red Light District governance dynamics and complex identity, giving reference for why existing tourism is commonly associated with trash and seen as undesireable, and why management approaches fail to address underlying systemic tensions.
 
 ![image](assets/img/thesis/FinalThesis_4.jpg)
 
-#### Conceptual models
+#### Why toxic tours?
 Here, the work conceives the use of a 'toxic tour' as device that can harvest participant knowledge at different scales, starting from embodied experience and connecting it into dominant systems. Toxic tours come from a longstanding tradition of activists who intend to showcase a 'counter experience of everyday life' by appealing to the 'uglier sensualities of the world' and by exposing people to the costs of 'human greed' (Pezzullo, 2007, p. 10).
 ![image](assets/img/thesis/FinalThesis_5.jpg)
 
@@ -27,7 +27,7 @@ Here, the work conceives the use of a 'toxic tour' as device that can harvest pa
 
 ![image](assets/img/thesis/metodos.png)
 
-#### Operationalization
+#### How did the toxic tours work?
 
 Documents how participants were positioned as co-researchers, not subjects, and how the researcher's own positionality was made visible as part of the sensemaking process.
 
@@ -38,10 +38,9 @@ The design of the tour activities and photo missions came hand to hand with the 
 ![image](assets/img/thesis/mapa.png)
 ![image](assets/img/thesis/actividades.png)
 
+##### What I noticed as the tour guide/researcher
 
-##### Autoethnography and positionality
-
-By explicitly documenting the researcher's experience while carrying out the role a tour guide, co-creator and designer, the research allowed to incorporate explicit assumptions, hypotheses and uncertainties found through previous tour iterations. These entailed personal and professional beliefs, lived experience, and social and cultural norms which allowed to further reflect on how system factors that could communicated and how the reseach itself could inhibit change.
+I ran these tours myself, so I tracked my own assumptions across iterations too, not just participants'. That mattered, because what I expected to find shifted after nearly every tour. These entailed personal and professional beliefs, lived experience, and social and cultural norms which allowed to further reflect on how system factors that could communicated and how the reseach itself could inhibit change.
 
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 
@@ -57,7 +56,7 @@ By portraying the research as a Living Lab, the following timeline documents the
 
 ![image](assets/img/thesis/research-prochess.png)
 
-#### Epilogue 
+#### Personal Reflection
 ![image](assets/img/thesis/Thesis_10.jpg)
 
 
