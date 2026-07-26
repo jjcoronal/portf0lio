@@ -5,6 +5,8 @@ layout: default
 ## Clean Inner City Living Lab
 ### Schone Binnenstad Living Lab
 
+###### See also: [Toxic tours in Amsterdam's Red Light District](page12.md)
+
 ##### Introduction 
 
 
