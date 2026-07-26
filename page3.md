@@ -2,7 +2,9 @@
 layout: default 
 ---
 ## Non-Western Knowledge as a Framework for Innovation
-###### Project: Decolonial Niche Innovations and Decolonial Transition through the Multi-Level Perspective and Social Innovation
+##### Project: Decolonial Niche Innovations and Decolonial Transition through the Multi-Level Perspective and Social Innovation
+
+###### See also: [Making Sense of Death as a Socio-Technical System](page2.md)
 
 **Introduction**
 
