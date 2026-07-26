@@ -7,6 +7,8 @@ layout: default
 > _I help organizations make sense of complexity and design better ways of working together, working across systems thinking, facilitation, and strategic design._
 >
 > _I map out my process in three steps: first, diagnosing the problem through a [systems lens](page21.md); next, engaging people to design [collective processes](page22.md); and finally, getting to work [building and testing solutions](page23.md)._
+>
+> _Depending on what a system needs, I map it from the outside as an analyst or step inside it as a participant, sometimes living for a year inside the phenomena I'm studying. That range, from stakeholder system maps to lived, autoethnographic research, shapes how I diagnose problems before I try to solve them._
 
 > _Don't forget to click through!_
 
@@ -29,7 +31,7 @@ Projects where processes and experiences brought diverse stakeholders together t
 
 
 # [Prototyping & fabrication](page23.md)
-Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation are used to identify their scalability.
+Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation are used to identify their scalability. Each project uses a fixed constraint to generate and classify structural variation.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page23.md)
 
