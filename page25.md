@@ -2,21 +2,19 @@
 #### Rubenscastle, Zemst, Belgium
 ###### [https://constructlab.net/projects/last-resort/]
 
-> <img src="assets/img/constructlab/112.JPG" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/110.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/18.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/14.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/15.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/13.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/16.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/17.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/12.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/19.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/11.jpg" alt="Alt Text" width="300" height="200">
-> <img src="assets/img/constructlab/111.jpg" alt="Alt Text" width="300" height="200">
 
-
-
+![image](assets/img/constructlab/112.JPG)
+![image](assets/img/constructlab/110.jpg)
+![image](assets/img/constructlab/18.jpg)
+![image](assets/img/constructlab/14.jpg)
+![image](assets/img/constructlab/15.jpg)
+![image](assets/img/constructlab/13.jpg)
+![image](assets/img/constructlab/16.jpg)
+![image](assets/img/constructlab/17.jpg)
+![image](assets/img/constructlab/12.jpg)
+![image](assets/img/constructlab/19.jpg)
+![image](assets/img/constructlab/11.jpg)
+![image](assets/img/constructlab/111.jpg)
 
 [back](./)
 
