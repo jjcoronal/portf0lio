@@ -4,9 +4,9 @@ layout: default
 
 ## About me
 
-> _I'm a systems thinker and an architect. I like to think about the broad systems in the world and understand how they impact us as different scales._
+> _I'm a systems thinker trained as a designer and an engineer. I like to think about the broad systems in the world and understand how they impact us as different scales. This in order to envision alternative forms of building our world._
 >
-> _I map out my process in three steps: first, diagnosing the problem through a [systems lens](page21.md); next, engaging people to design [collective processes](page22.md); and finally, getting to work by [building and testing solutions](page23.md)._
+> _I map out my work in three groups: first, diagnosing the problem through a [systems lens](page21.md); next, engaging people in [collective processes](page22.md); and finally, getting to work by [iterating and testing solutions](page23.md)._
 >
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
