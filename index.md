@@ -8,7 +8,6 @@ layout: default
 >
 > _I map out my process in three steps: first, diagnosing the problem through a [systems lens](page21.md); next, engaging people to design [collective processes](page22.md); and finally, getting to work by [building and testing solutions](page23.md)._
 >
-> _Don't forget to click through!_
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
