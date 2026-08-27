@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-> _I help organizations make sense of complexity and design better ways of working together through systems thinking, facilitation, and strategic design._
+> _I'm a systems thinker and an occasional overcomplicator. I like to think about the broad systems in the world and understand how they impact us as different scales._
 >
 > _I map out my process in three steps: first, diagnosing the problem through a [systems lens](page21.md); next, engaging people to design [collective processes](page22.md); and finally, getting to work by [building and testing solutions](page23.md)._
 >
