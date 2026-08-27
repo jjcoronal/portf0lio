@@ -12,7 +12,7 @@ layout: default
 
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
-##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my passions, click [here](https://www.instagram.com/jjclucio). I am also a handstand practitioner and an amateur worm composter.
+##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my passions, click [here](https://www.instagram.com/jjclucio). I am also an amateur worm composter 👨‍🌾🪱🌱.
 
 
 ---
