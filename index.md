@@ -26,7 +26,7 @@ Projects where processes and experiences brought diverse stakeholders together t
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="300" height="200">](page22.md)
 
 
-# [Prototyping & fabrication](page23.md)
+# [Design research](page23.md)
 Projects where concepts take form of mock-ups, and where material testing and hands-on experimentation were used to identify their scalability.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page23.md)
