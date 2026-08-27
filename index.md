@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-> _I'm a systems thinker trained as a designer and an engineer. I like to think about the broad systems in the world and understand how they impact it, and us, at different scales. That has taken me through waste and circularity, housing, tourism, burial infrastructure, and commercial real estate._ 
+> _I'm a systems thinker trained as a designer and an engineer. I like to think about the broad systems in the world and understand how they impact it, and us, at different scales. That has taken me through coordination and research in urban living labs on circularity, and to explore topics on housing, tourism, mobility, and burial infrastructure through decolonial perspectives._ 
 
 > _The work sits in three places: [diagnosing systems](page21.md), [designing collective processes](page22.md), and the [design methods](page23.md) that shape how I approach both._
 
