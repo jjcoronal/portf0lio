@@ -37,8 +37,10 @@ Unclassified work that shaped my approach. Student organizing, professional expe
 
 > [<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="320" height="240">](page24.md)
 
-<br>
-<br>
+---
+
+###### **Talks:** _AMS Scientific Conference 2026, "Living Labs: Just Approaches" (Amsterdam, April 2026). TU Delft, Persistence of Sacred Space workshop (Delft, September 2025)._ **Volunteering:** _Katapult Future Fest, Netherlands (2026). ConstructLab, Belgium (2023). GRUPEDSAC, Oaxaca (2020). Si Quieres Puedes" Program, Universidad Iberoamericana (2016-2019)._ <b>
+
 <br>
 
 _:)_
