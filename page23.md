@@ -1,5 +1,5 @@
 
-# [Prototyping & Fabrication](page23.md)
+# [Prototyping as research](page23.md)
 
 ### [Woodworking, digital design, & community engagement](page8.md)
 
