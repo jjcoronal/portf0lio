@@ -6,7 +6,7 @@ layout: default
 #### Oaxaca, December 2020
 ###### A Sustainable Development & Community Engagement Program
 
-Participated in ECO-TEQUIO, a hands-on sustainability and community service program focused on working closely with local populations to promote environmental conservation and social impact. The initiative aimed to improve water accessibility, promote local craftsmanship in rural communities.
+Participated in ECO-TEQUIO, a hands-on sustainability and community service program focused on working closely with local populations to promote environmental conservation and social impact. The initiative aimed to improve water accessibility and promote local craftsmanship in rural communities.
 
 ![image](assets/img/ecotequio/IMG_9498.JPG)
 
