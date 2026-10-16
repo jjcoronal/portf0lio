@@ -5,7 +5,7 @@ layout: default
 ## Clean Inner City Living Lab
 ### Schone Binnenstad Living Lab
 
-###### See also: [Toxic tours in Amsterdam's Red Light District](page12.md) (the same streets, explored on foot with 28 participants); [Making sense of death as a socio-technical system](page21.md) (another Amsterdam infrastructure, mapped as a system)
+###### See also: [Toxic tours in Amsterdam's Red Light District](page12.md) (the same streets, explored on foot with 28 participants); [Making sense of death as a socio-technical system](page2.md) (another Amsterdam infrastructure, mapped as a system)
 
 ##### Introduction 
 
