@@ -25,10 +25,7 @@ A collective taxonomy of over 100 fabric-formed concrete pieces, generated withi
 
 > [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
 
-### [Digital prototyping & analogue experimental research](page9.md)
 
-> [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md)
->
 > ---
 > 
 > [back](./)
