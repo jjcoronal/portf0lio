@@ -21,7 +21,7 @@ A year living inside Paris's CLJT social housing model became the foundation for
 
 ### [Cocina Abierta: a manual for building by hand](page26.md)
 
-> [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="580">](page26.md)
+> [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="260">](page26.md)
 
 ---
 [back](./)
