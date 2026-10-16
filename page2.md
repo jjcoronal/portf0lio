@@ -6,7 +6,7 @@ layout: default
 
 #### _Project name: Reevaluating Death-Related Institutions in the Dutch Context_
 
-###### See also: [Non-Western Knowledge as a Framework for Innovation](page3.md)
+###### See also: [Clean Inner City Living Lab](page-1); [Non-Western Knowledge as a Framework for Innovation](page3.md)
 
 **The systems analysis reveals a structural gap: cities are being asked to accommodate a cultural shift toward ecological death practices, but institutional frameworks, spatial planning decisions, and logistical infrastructure were built for a different cosmology entirely. Redesigning those systems is both a sustainability challenge and a governance design problem.**
 
