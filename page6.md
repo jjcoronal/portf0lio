@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Designing Social Infrastructure for Commuters
+# Designing social infrastructure for commuters
 ##### The project was developed in collaboration with four teammates
 
 ###### See also: [Post-Covid19 Housing Dynamics in Mexico City](page4.md)
