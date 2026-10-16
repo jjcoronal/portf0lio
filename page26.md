@@ -8,7 +8,7 @@ layout: default
 
 ###### See also: [Woodworking, Digital Design, & Community Engagement)](page18.md)
 
-The structure for this open kitchen was developed as a parametric definition, which allowed several configurations to be evaluated with the client before building. That precision only mattered if it survived the move from screen to site. The assembly then follows the order of construction, from platform and compacted-earth walls to columns, beams, purlins, diagonals and roof. Each page shows only the pieces being added, in colour, against the full structure in grey.
+The manual came through iterative testing of handmade sketches and questions that fed into the communication style with craftspeople. The result was color-coded, scaled 3D drawings in sequential workflows that turned technical parameters into playful and intuitive assemblies. It moved away from standard architecture drawings, reduced supervision visits, and allowed craftspeople to take on more complex builds.
 
 ###### Manual
 
