@@ -20,7 +20,7 @@ Projects where I diagnosed how a complex system works, identified patterns and c
 
 <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="300" height="200" frameborder="0"></iframe>
 
-# [Facilitation & engagement](page22.md) 
+# [Facilitation & translation](page22.md) 
 Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="300" height="200">](page22.md)
