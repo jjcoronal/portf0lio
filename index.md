@@ -27,7 +27,7 @@ Projects where processes and experiences brought diverse stakeholders together t
 
 
 # [Prototyping as research](page23.md)
-Projects that treat making as a research method, privileging iteration, curiosity and testing.
+Projects that treat iteration as a research method, privileging accidents, curiosity, and testing.
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page23.md)
 
