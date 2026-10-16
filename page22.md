@@ -13,12 +13,6 @@ An entrepreneurial venture rethinking public transit as social infrastructure. C
 > [<img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="345" height="215">](page6.md)
 > [<img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
 
-### [What can Paris housing teach Mexico City?](page5.md)
-
-A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition can be a replicable urban strategy with direct implications for Mexico City.
-
-> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="280">](page5.md)
-
 ### [Cocina Abierta: a manual for building by hand](page26.md)
 
 > [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="285">](page26.md)
