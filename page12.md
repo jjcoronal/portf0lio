@@ -33,19 +33,19 @@ Documents how participants were positioned as co-researchers, not subjects, and 
 
 ##### Activity and photo mission structuring
 
-The design of the tour activities and photo missions came hand to hand with the thorough understanding of the site's waste dynamics and history. It developped into a scaffolded process that jumpstarted participant experiences through a lived raw experience of how the systems of waste are lived every morning in Amsterdam's Red Light District. Progressively, with the use of equipment such as phone cameras and trash pickers, participants were asked to document and co-create imaginary scenarios of what could've happened based on selected pieces of trash found in Oudezijds Achterburgwal, the heart of Amsterdam's Red Light District
+The design of the tour activities and photo missions came hand to hand with the thorough understanding of the site's waste dynamics and history. It developed into a scaffolded process that jumpstarted participant experiences through a lived raw experience of how the systems of waste are lived every morning in Amsterdam's Red Light District. Progressively, with the use of equipment such as phone cameras and trash pickers, participants were asked to document and co-create imaginary scenarios of what could've happened based on selected pieces of trash found in Oudezijds Achterburgwal, the heart of Amsterdam's Red Light District
 .
 ![image](assets/img/thesis/mapa.png)
 ![image](assets/img/thesis/actividades.png)
 
 ##### What I noticed as the tour guide/researcher
 
-I ran these tours myself, so I tracked my own assumptions across iterations too, not just participants'. That mattered, because what I expected to find shifted after nearly every tour. These entailed personal and professional beliefs, lived experience, and social and cultural norms which allowed to further reflect on how system factors that could communicated and how the reseach itself could inhibit change.
+I ran these tours myself, so I tracked my own assumptions across iterations too, not just participants'. That mattered, because what I expected to find shifted after nearly every tour. These entailed personal and professional beliefs, lived experience, and social and cultural norms which allowed to further reflect on how system factors that could communicated and how the research itself could inhibit change.
 
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 
 #### Walk results 
-The study identified five recurring patterns of learning: (1) connection with others creates understanding, (2) playfulness and creativity unlock insights, (3) real-time reflection deepens awareness, (4) small acts of care ground learning in practice, (5) iterative design enables deeper learning. These experiences revealed hidden infrastructures, moral hierarchies, and socio-economic inequalities. They also helped participants develop emotional, ethical, and big-picture understand- ings that traditional tourism or research rarely offer. Participants shifted from seeing waste as an individual responsibility to understanding it as a shared sys- temic responsibility, demonstrating how tourism can function as a medium for learning, reflection, and collective action.
+The study identified five recurring patterns of learning: (1) connection with others creates understanding, (2) playfulness and creativity unlock insights, (3) real-time reflection deepens awareness, (4) small acts of care ground learning in practice, (5) iterative design enables deeper learning. These experiences revealed hidden infrastructures, moral hierarchies, and socio-economic inequalities. They also helped participants develop emotional, ethical, and big-picture understandings that traditional tourism or research rarely offer. Participants shifted from seeing waste as an individual responsibility to understanding it as a shared systemic responsibility, demonstrating how tourism can function as a medium for learning, reflection, and collective action.
 
 ![image](assets/img/thesis/Thesis_7.jpg)
 ![image](assets/img/thesis/Thesis_8.jpg)
