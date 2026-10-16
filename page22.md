@@ -19,5 +19,11 @@ A year living inside Paris's CLJT social housing model became the foundation for
 
 > [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="280">](page5.md)
 
+### [Instruction Manual](page26.md)
+
+Description
+
+> [<img src="assets/img/casa-estudio/240925_PF_MADE.jpg" alt="Alt Text" width="200" height="280">](page26.md)
+
 ---
 [back](./)
