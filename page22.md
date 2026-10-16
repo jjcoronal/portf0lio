@@ -1,6 +1,6 @@
 # [Facilitation & Engagement](page22.md) 
 
-### [Toxic tours in Amsterdam's Red Light District](page12.md)
+### [Critical guided walks in Amsterdam's Red Light District](page12.md)
 
 How do you mobilise diverse groups around complex, uncomfortable urban challenges? This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
