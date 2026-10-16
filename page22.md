@@ -6,6 +6,10 @@ How do you mobilise diverse groups around complex, uncomfortable urban challenge
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
 
+### [The messy middle of a living lab](page27.md)
+
+what happens between diagnose and intervention in a living lab? The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
+
 ### [UnmuteCommute: Designing social infrastructure for commuters](page6.md)
 
 An entrepreneurial venture rethinking public transit as social infrastructure. Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
