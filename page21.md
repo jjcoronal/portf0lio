@@ -12,11 +12,11 @@ A spatial and institutional analysis of burial infrastructure in Amsterdam, exam
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
-### [Non-western knowledge as a framework for innovation](page3.md)
+### [Collective housing typologies in Mexico City](page7.md)
 
-A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
+An analysis of collective housing models in Mexico City, examining how shared spaces within residential typologies can function as tools for social change.
 
-> [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
+> [<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">](page7.md)
 
 ### [Post-Covid19 housing dynamics in Mexico City](page4.md)
 
@@ -24,11 +24,17 @@ An alternative housing model for young professionals navigating oversupplied off
 
 > [<img src="assets/img/proyectoGIS/230601_PF_Zambrano_1.jpg" alt="Alt Text" width="300" height="200">](page4.md)
 
-### [Collective housing typologies in Mexico City](page7.md)
+### [What can Paris housing teach Mexico City?](page5.md)
 
-An analysis of collective housing models in Mexico City, examining how shared spaces within residential typologies can function as tools for social change.
+A year living inside Paris's CLJT social housing model became the foundation for a research argument: that affordable, transit-integrated housing for young professionals in transition can be a replicable urban strategy with direct implications for Mexico City.
 
-> [<img src="assets/img/tabilbao/Screenshot 2025-02-01 at 13.45.22.png" alt="Alt Text" width="300" height="200">](page7.md)
+> [<img src="assets/img/proyectoGIS/IMG_3753.jpeg" alt="Alt Text" width="200" height="280">](page5.md)
+
+### [Non-western knowledge as a framework for innovation](page3.md)
+
+A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
+
+> [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
 
 ---
 
