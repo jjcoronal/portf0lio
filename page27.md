@@ -15,8 +15,8 @@ A stakeholder analysis sorted the actors around each pilot into four roles: thos
 The gap analysis was discussed with the work package researchers, the project manager and the programme developer, and became the reference for revising the scope of the research proposals and widening the project’s attention to governance.
 
 ###### Key factors and trash typologies
-<img src="assets/img/sb_gap_analysis/10.png" width="600" height="400" />
-<img src="assets/img/sb_gap_analysis/20.png" width="600" height="400" />
+<img src="assets/img/sb_gap_analysis/10.png" width="500" height="400" />
+<img src="assets/img/sb_gap_analysis/20.png" width="500" height="400" />
 
 ###### WPs and their influence on typologies
 <img src="assets/img/sb_gap_analysis/30.png" width="600" height="400" />
