@@ -17,17 +17,14 @@ The gap analysis was discussed with the work package researchers, the project ma
 ###### Key factors and trash typologies
 <img src="assets/img/sb_gap_analysis/10.png" width="500" height="400" />
 <img src="assets/img/sb_gap_analysis/20.png" width="500" height="400" />
-
 ###### WPs and their influence on typologies
-<img src="assets/img/sb_gap_analysis/30.png" width="600" height="400" />
-<img src="assets/img/sb_gap_analysis/40.png" width="600" height="400" />
-
+<img src="assets/img/sb_gap_analysis/30.png" width="500" height="400" />
+<img src="assets/img/sb_gap_analysis/40.png" width="500" height="400" />
 ###### WP2 impact overview
-<img src="assets/img/sb_gap_analysis/50.png" width="600" height="400" />
-
+<img src="assets/img/sb_gap_analysis/50.png" width="500" height="400" />
 ###### WP2 specifics
-<img src="assets/img/sb_gap_analysis/80.png" width="600" height="400" />
-<img src="assets/img/sb_gap_analysis/100.png" width="600" height="400" />
+<img src="assets/img/sb_gap_analysis/80.png" width="500" height="400" />
+<img src="assets/img/sb_gap_analysis/100.png" width="500" height="400" />
 
 
 [back](./)
