@@ -10,7 +10,7 @@ How do you mobilise diverse groups around complex, uncomfortable urban challenge
 
 what happens between diagnose and intervention in a living lab? The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
 
-> [<img src="assets/img/sb_gap_analysis/01.png" width="345" height="245" />](page27.md)
+> [<img src="assets/img/sb_gap_analysis/01.png" width="345" height="255" />](page27.md)
 
 ### [UnmuteCommute: Designing social infrastructure for commuters](page6.md)
 
