@@ -8,7 +8,7 @@ layout: default
 
 > _The work sits in three places: [diagnosing systems](page21.md), [designing collective processes](page22.md), and the [design methods](page23.md) that shape how I approach both._
 
-> <img src="assets/img/Portrait.jpeg" alt="Alt Text" width="180" height="300">
+> <img src="assets/img/Portrait.jpeg" alt="Alt Text" width="240" height="300">
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my passions, click [here](https://www.instagram.com/jjclucio). I am also an amateur worm composter 👨‍🌾🪱🌱.
 
