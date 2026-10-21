@@ -3,12 +3,13 @@
 _A few things that shaped how I work, but didn't come from a client brief._
 
 ### [Construction festival (Belgium, 2023)](page25.md)
-> [<img src="assets/img/constructlab/60.JPG" alt="Alt Text" width="300" height="200">](page25.md)
+> [<img src="assets/img/constructlab/70.JPG" alt="Alt Text" width="300" height="200">](page25.md)
 
 ### [Commercial work (Paris, 2022)](page14.md)
 > [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
 
 ### [Eco-Tequio (community build, Oaxaca, 2020)](page11.md)
+> [<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="320" height="240">](page24.md)
 
 ### [Digital prototyping & analogue fabrication (graduation project, 2020)](page9.md)
 
