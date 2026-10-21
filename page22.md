@@ -10,13 +10,15 @@ This project used toxic tours in Amsterdam's Red-Light District to turn waste in
 ### [The messy middle of a living lab](page27.md)
 
 What happens between diagnose and intervention in a living lab? 
+
 The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
 
 > [<img src="assets/img/sb_gap_analysis/01.png" width="345" height="255" />](page27.md)
 
 ### [UnmuteCommute: Designing social infrastructure for commuters](page6.md)
 
-How can you make out of commuting a social platform?
+**How can you make out of commuting a social platform?**
+
 Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
 
 > [<img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="345" height="215">](page6.md)
