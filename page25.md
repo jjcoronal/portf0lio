@@ -7,6 +7,7 @@ Lived and built for 12 days inside Rubens Castle's grounds as part of ConstructL
 > <img src="assets/img/constructlab/40.jpg" alt="Alt Text" width="600" height="400">
 > <img src="assets/img/constructlab/20.JPG" alt="Alt Text" width="600" height="400">
 > <img src="assets/img/constructlab/50.JPG" alt="Alt Text" width="400" height="800">
+> <img src="assets/img/constructlab/30.JPG" alt="Alt Text" width="400" height="800">
 > <img src="assets/img/constructlab/80.jpg" alt="Alt Text" width="600" height="400">
 > <img src="assets/img/constructlab/90.jpg" alt="Alt Text" width="600" height="400">
 > <img src="assets/img/constructlab/20.JPG" alt="Alt Text" width="600" height="400">
