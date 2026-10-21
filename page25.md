@@ -4,6 +4,7 @@
 
 Lived and built for 12 days inside Rubens Castle's grounds as part of ConstructLab's "Last Resort" summer school, working only with resources sourced from the site itself, alongside an international group of architects, designers, and artists. The residency mapped the domain's social and power dynamics through building, research, and performance, culminating in a guided tour that reinterpreted the castle for its neighbors and visitors.
 
+> <img src="assets/img/constructlab/40.jpg" alt="Alt Text" width="600" height="400">
 > <img src="assets/img/constructlab/20.JPG" alt="Alt Text" width="300" height="200">
 > <img src="assets/img/constructlab/50.JPG" alt="Alt Text" width="200" height="400">
 > <img src="assets/img/constructlab/80.jpg" alt="Alt Text" width="300" height="200">
@@ -22,10 +23,10 @@ Lived and built for 12 days inside Rubens Castle's grounds as part of ConstructL
 > <img src="assets/img/constructlab/16.jpg" alt="Alt Text" width="300" height="200">
 > <img src="assets/img/constructlab/17.jpg" alt="Alt Text" width="200" height="300">
 
-![image](assets/img/constructlab/12.jpg)
-![image](assets/img/constructlab/19.jpg)
-![image](assets/img/constructlab/11.jpg)
-![image](assets/img/constructlab/111.jpg)
+> <img src="assets/img/constructlab/12.jpg" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/constructlab/19.jpg" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/constructlab/111.Jjpg" alt="Alt Text" width="300" height="200">
+
 > <img src="assets/img/constructlab/71.JPG" alt="Alt Text" width="300" height="200">
 > <img src="assets/img/constructlab/60.JPG" alt="Alt Text" width="300" height="200">
 
