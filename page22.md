@@ -2,14 +2,15 @@
 
 ### [Critical guided walks in Amsterdam's Red Light District](page12.md)
 
-How do you mobilise diverse groups around complex, uncomfortable urban challenges? 
+**How do you mobilise diverse groups around complex, uncomfortable urban challenges?**
+
 This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
 
 ### [The messy middle of a living lab](page27.md)
 
-What happens between diagnose and intervention in a living lab? 
+**What happens between diagnose and intervention in a living lab?**
 
 The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
 
@@ -26,7 +27,7 @@ Combining physical tokens with a digital engagement platform, the project used G
 
 ### [Cocina Abierta: a manual for building by hand](page26.md)
 
-What can architecture and building can learn from craftspeople's expertise?
+**What can architecture and building can learn from craftspeople's expertise?**
 
 > [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="285">](page26.md)
 
