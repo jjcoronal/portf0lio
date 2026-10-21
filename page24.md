@@ -16,7 +16,7 @@ _A few things that shaped how I work, but didn't come from a client brief._
 
 > [<img src="assets/img/tensegrity/Pabellón_4 mezcla playground - Photo.png" alt="Alt Text" width="300" height="200">](page9.md)
 
-### [Foro/ENTRE/2020 (student organization, Puebla, 2020)](https://issuu.com/escuadraarquitectura/docs/foro_entre_book)
+### [Foro/ENTRE/2020 (Puebla, 2020)](https://issuu.com/escuadraarquitectura/docs/foro_entre_book)
 
 ### [Artworks (2010-present)](page13.md)
 
