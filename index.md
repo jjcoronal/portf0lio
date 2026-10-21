@@ -35,7 +35,7 @@ Projects that treat iteration as a research method, privileging accidents, curio
 # [Other](page24.md)
 Unclassified work that shaped my approach. Student organizing, professional experience in commercial design, hands-on community construction sprints, and art for the sake of it.
 
-> [<img src="assets/img/ecotequio/IMG_9498.JPG" alt="Alt Text" width="320" height="240">](page24.md)
+> [<img src="assets/img/constructlab/40.jpg" alt="Alt Text" width="320" height="240">](page24.md)
 
 ---
 
