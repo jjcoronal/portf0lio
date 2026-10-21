@@ -2,24 +2,29 @@
 
 ### [Critical guided walks in Amsterdam's Red Light District](page12.md)
 
-How do you mobilise diverse groups around complex, uncomfortable urban challenges? This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
+How do you mobilise diverse groups around complex, uncomfortable urban challenges? 
+This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="500" height="300">](page12.md)
 
 ### [The messy middle of a living lab](page27.md)
 
-what happens between diagnose and intervention in a living lab? The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
+What happens between diagnose and intervention in a living lab? 
+The purpose of this tool was to show researchers what the impact of their experiments. Testing three work packages against ten waste typologies showed what each would reach, what none of them touched, and who each experiments would need on board.
 
 > [<img src="assets/img/sb_gap_analysis/01.png" width="345" height="255" />](page27.md)
 
 ### [UnmuteCommute: Designing social infrastructure for commuters](page6.md)
 
-An entrepreneurial venture rethinking public transit as social infrastructure. Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
+How can you make out of commuting a social platform?
+Combining physical tokens with a digital engagement platform, the project used GIS analysis, structured interviews, and iterative prototyping to design a scalable, human-centred product that transforms commuter waiting time into opportunity for connection.
 
 > [<img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="345" height="215">](page6.md)
 > [<img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="300" height="200">](page6.md)
 
 ### [Cocina Abierta: a manual for building by hand](page26.md)
+
+What can architecture and building can learn from craftspeople's expertise?
 
 > [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="285">](page26.md)
 
