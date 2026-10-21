@@ -2,7 +2,7 @@
 
 _A few things that shaped how I work, but didn't come from a client brief._
 
-### [Construction festival (Belgium, 2023)](page25.md)
+### [Last Resort: Construction festival by Constructlab (Belgium, 2023)](page25.md)
 > [<img src="assets/img/constructlab/70.jpg" alt="Alt Text" width="300" height="200">](page25.md)
 
 ### [Commercial work (Paris, 2022)](page14.md)
