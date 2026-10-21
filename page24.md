@@ -3,7 +3,8 @@
 _A few things that shaped how I work, but didn't come from a client brief._
 
 ### [Last Resort: Construction festival by Constructlab (Belgium, 2023)](page25.md)
-> [<img src="assets/img/constructlab/70.jpg" alt="Alt Text" width="300" height="200">](page25.md)
+> [<img src="assets/img/constructlab/70.jpg" alt="Alt Text" width="300" height="250">](page25.md)
+> [<img src="assets/img/constructlab/101.JPG" alt="Alt Text" width="600" height="400">](page25.md)
 
 ### [Commercial work (Paris, 2022)](page14.md)
 > [<img src="assets/img/caudalie/materiaux.png" alt="Alt Text" width="300" height="200">](page14.md)
