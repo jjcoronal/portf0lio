@@ -3,7 +3,7 @@
 
 ### [Woodworking, digital design, & community engagement](page8.md)
 
-In this project, parametric design meets unskilled labour. This project developed a digital definition for a timber structure that allowed multiple configurations to be evaluated with the client. It was then translated into construction documentation legible to builders without technical training.
+In this project, parametric design meets crafts. This project developed a digital definition for a timber structure that allowed multiple configurations to be evaluated with the client. It was then translated into construction documentation with the help of craftspeople.
 
 > [<img src="assets/img/casa-estudio/IMG_8758.jpeg" alt="Alt Text" width="300" height="200">](page8.md)
 
