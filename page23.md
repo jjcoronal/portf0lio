@@ -21,7 +21,7 @@ A workshop-based structural research project testing whether textile techniques 
 
 ### [Taxonomy of one hundred concrete pieces in aggregation](page15prexpren4.md)
 
-A collective taxonomy of over 100 fabric-formed concrete pieces, generated within a shared constraint (an 80x80x20cm wooden frame) and classified phylogenetically, as if each piece were a biological specimen with its own lineage. The research demonstrates that structural outcome is not determined by boundary conditions alone, but by the internal logic applied to them.
+A collective taxonomy of over 100 fabric-formed concrete pieces, generated within a shared constraint (an 80x80x20cm wooden frame) and classified phylogenetically, as if each piece were a biological specimen with its own lineage.
 
 > [<img src="assets/img/prexpren4/Arbolgral.png" alt="Alt Text" width="300" height="200">](page15prexpren4.md)
 
