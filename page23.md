@@ -9,7 +9,7 @@ In this project, parametric design meets crafts. This project developed a digita
 
 ### [Coding a painter's logic](page10.md)
 
-Through close-up, Chuck Close doesn't paint faces. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
+Chuck Close is all about closeness. This project abstracted the rule-based logic of his creative process and translated it into a parametric Python definition, generating outputs whose complexity exceeded what manual tools could produce. Its an exercise that moves from designer to system-builder, and lets the system do the designing.
 
 > [<img src="assets/img/close/DiagramasClose-07.jpg" alt="Alt Text" width="600" height="100">](page10.md)
 
