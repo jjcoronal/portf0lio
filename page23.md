@@ -15,7 +15,7 @@ Chuck Close is all about closeness. This project abstracted the rule-based logic
 
 ### [Knitting macramé into a load-bearing system](page16.md)
 
-A workshop-based structural research project testing whether textile techniques could perform structurally under load. Iterative exploration across shell structures, pneumatic systems, and catenary geometries using henequén fiber, fabric, concrete, and aggregates revealed that conventional material and method hierarchies could be challenged. It culminated in a woven structure weighing under 15kg that passed a load test of over 500kg with eight participants. The testing demonstrated that structural capacity emerges from logic and configuration, not from material type alone.
+A workshop-based structural research project testing whether textile techniques could perform structurally under load. The project dealt with catenary geometries using henequén fiber, fabric, concrete, and aggregates that paved the way to challenge conventional building processes. The project culminated in a woven structure weighing under 15kg that passed a load test of over 500kg. 
 
 > [<img src="assets/img/page16/42.gif" width="300" height="200" />](page16.md)
 
