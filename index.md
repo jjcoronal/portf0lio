@@ -6,7 +6,7 @@ layout: default
 
 > _I like to think about the broad systems in the world and how they shape everything at different scales. That has taken me through research and coordination in urban living labs on circularity, project management in corporate real estate, housing research for publications and exhibitions, and design studios in Paris and Mexico City. Along the way, I've explored housing, tourism, mobility, and burial infrastructure._ 
 
-> _The work sits in three places: [diagnosing systems](page21.md), [designing collective processes](page22.md), and the [design methods](page23.md) that shape how I approach both._
+> _The work sits in three places: [diagnosing systems](page21.md), [designing collective processes](page22.md), and the [design methods](page23.md) that shape how I approach my work._
 
 > <img src="assets/img/Portrait.jpeg" alt="Alt Text" width="240" height="300">
 
