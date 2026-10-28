@@ -49,6 +49,7 @@ I ran these tours myself, so I tracked my own assumptions across iterations too,
 #### Walk results 
 The study identified five recurring patterns of learning: (1) connection with others creates understanding, (2) playfulness and creativity unlock insights, (3) real-time reflection deepens awareness, (4) small acts of care ground learning in practice, (5) iterative design enables deeper learning. These experiences revealed hidden infrastructures, moral hierarchies, and socio-economic inequalities. They also helped participants develop emotional, ethical, and big-picture understandings that traditional tourism or research rarely offer. Participants shifted from seeing waste as an individual responsibility to understanding it as a shared systemic responsibility, demonstrating how tourism can function as a medium for learning, reflection, and collective action.
 
+![image](assets/img/thesis/Tour_goals.png)
 ![image](assets/img/thesis/Thesis_7.jpg)
 ![image](assets/img/thesis/Thesis_8.jpg)
 
