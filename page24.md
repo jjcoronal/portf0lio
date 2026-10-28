@@ -18,7 +18,7 @@ _A few things that shaped how I work, but didn't come from a client brief._
 
 ### [Foro/ENTRE/2020 (Puebla, 2020)](https://issuu.com/escuadraarquitectura/docs/foro_entre_book)
 
-<iframe src="https://youtu.be/arjBXFOUYG4?si=tYdgpWuIifhd56pA" width="300" height="200" frameborder="0"></iframe> 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/arjBXFOUYG4?si=Z6kUlvtheehR28nj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 ### [Artworks (2010-present)](page13.md)
 
