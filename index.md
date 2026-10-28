@@ -47,7 +47,7 @@ Unclassified work that shaped my approach. Student organizing, professional expe
 ##### _Katapult Future Fest, Netherlands (2026)._ 
 ##### _ConstructLab, Belgium (2023)._
 ##### _GRUPEDSAC, Oaxaca (2020)._
-##### _Si Quieres Puedes" Program, Universidad Iberoamericana (2016-2019)._
+##### _"Si Quieres Puedes" Program, Universidad Iberoamericana, Mexico City (2016-2019)._
 
 <br>
 
