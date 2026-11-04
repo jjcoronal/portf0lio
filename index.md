@@ -25,6 +25,7 @@ Projects where processes and experiences brought diverse stakeholders together t
 
 > [<img src="assets/img/thesis/TT4index.jpeg" alt="Alt Text" width="300" height="200">](page22.md)
 > [<img src="assets/img/thesis/TT3.jpeg" alt="Alt Text" width="300" height="200">](page22.md)
+> [<img src="assets/img/thesis/TT4index2.jpeg" alt="Alt Text" width="200" height="300">](page22.md)
 > [<img src="assets/img/thesis/TT4index1.jpeg" alt="Alt Text" width="200" height="300">](page22.md)
 
 
