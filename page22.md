@@ -27,7 +27,7 @@ Combining physical tokens with a digital engagement platform, the project used G
 
 ### [Cocina Abierta: a manual for building by hand](page26.md)
 
-**What can architecture and building can learn from craftspeople's expertise?**
+**How can you build understanding between different expertise?**
 
 > [<img src="assets/img/casa-estudio/manual.gif" alt="Alt Text" width="400" height="285">](page26.md)
 
