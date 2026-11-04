@@ -23,8 +23,8 @@ Projects where I diagnosed how a complex system works, identified patterns and c
 # [Facilitation & engagement](page22.md) 
 Projects where processes and experiences brought diverse stakeholders together to develop shared understanding and co-create.
 
-> [<img src="assets/img/thesis/TT4_1.jpeg" alt="Alt Text" width="450" height="630">](page22.md)
-> 
+> [<img src="assets/img/thesis/TT4index.jpeg" alt="Alt Text" width="300" height="200">](page22.md)
+> [<img src="assets/img/thesis/TT4index1.jpeg" alt="Alt Text" width="200" height="300">](page22.md)
 
 
 # [Prototyping as research](page23.md)
