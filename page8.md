@@ -6,7 +6,7 @@ layout: default
 #### Taller Casa-Estudio 
 ##### Project led by Luis Gil & Nuria Benítez
 
-###### See also: [Materiality & brand experience in beauty (professional experience)](page14.md)
+###### See also: [Translating brand values to the built environment](page14.md)
 
 The project at hand was realized in Reserva Peñitas, Valle de Bravo. It was developed with digital design tools on one side, unskilled labor and limited construction literacy on the other.
 
