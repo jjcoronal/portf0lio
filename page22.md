@@ -6,7 +6,7 @@
 
 This project used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
-> [<img src="assets/img/thesis/TT4_1.jpeg" alt="Alt Text" width="300" height="520">](page12.md)
+> [<img src="assets/img/thesis/TT4_1.jpeg" alt="Alt Text" width="340" height="520">](page12.md)
 
 ### [The messy middle of a living lab](page27.md)
 
