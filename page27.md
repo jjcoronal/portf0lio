@@ -6,7 +6,7 @@ layout: default
 #### Gap and risk analysis testing research proposals against street waste typologies 
 ##### Schone Binnenstad Living Lab
 
-###### See also: [Clean Inner City Living Lab)](page-1.md)(the system map this analysis was built on)
+###### See also: [Clean Inner City Living Lab](page-1.md)(the system map this analysis was built on)
 
 Each WP was placed inside the system map to trace which typologies it could influence, directly or indirectly. Seven of the ten typologies were within reach of at least one work package. Three were outside all of them: bulky waste, illegal placement of waste, and bags left out for informal recovery. For each work package (WP) the analysis followed its impact through the map and named what it would leave unsolved and what it could make worse.
 
